@@ -1,10 +1,9 @@
 #include "alert.h"
 #include <stdio.h>
 #include <stdlib.h>
-#include <unistd.h> // Para sleep
-#include "sensor.h" // Adicione esta linha
+#include <unistd.h> 
+#include "sensor.h"
 
-// Array para armazenar alertas
 Alert alerts[NUM_SENSORS];
 int alert_count = 0; 
 pthread_mutex_t alert_lock;  
