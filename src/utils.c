@@ -1,3 +1,2 @@
 #include "utils.h"
-
-// Implementações de funções utilitárias, se necessário
+//coloquei p manter o padrao mas n to utilizando no momento atual

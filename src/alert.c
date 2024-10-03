@@ -6,8 +6,8 @@
 
 // Array para armazenar alertas
 Alert alerts[NUM_SENSORS];
-int alert_count = 0;            // Contador de alertas
-pthread_mutex_t alert_lock;     // Mutex para acesso aos alertas
+int alert_count = 0; 
+pthread_mutex_t alert_lock;  
 
 void* alert_process(void* arg) {
     while (1) {
@@ -15,7 +15,6 @@ void* alert_process(void* arg) {
             pthread_mutex_lock(&sensors[i].lock);
             if (sensors[i].temperature > ALERT_THRESHOLD) {
                 pthread_mutex_lock(&alert_lock);
-                // Gera um alerta
                 alerts[alert_count].sensor_id = sensors[i].id;
                 alerts[alert_count].temperature = sensors[i].temperature;
                 sprintf(alerts[alert_count].message, "ALERTA: Sensor %d detectou temperatura alta de %.2f!", sensors[i].id, sensors[i].temperature);
@@ -25,7 +24,7 @@ void* alert_process(void* arg) {
             }
             pthread_mutex_unlock(&sensors[i].lock);
         }
-        sleep(2);  // Espera 2 segundos antes de processar novamente
+        sleep(2);
     }
 
     return NULL;
