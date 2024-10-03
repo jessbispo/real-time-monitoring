@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.gradle": "java",
+        "pthread.h": "c",
+        "alert.h": "c"
+    }
+}
