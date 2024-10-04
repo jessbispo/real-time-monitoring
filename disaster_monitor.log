@@ -1,0 +1,2184 @@
+[Thu Oct  3 22:08:59 2024] Sensor 0: Temperatura medida: 49.00
+[Thu Oct  3 22:08:59 2024] Sensor 1: Temperatura medida: 55.00
+[Thu Oct  3 22:08:59 2024] Sensor 2: Temperatura medida: 31.00
+[Thu Oct  3 22:08:59 2024] Sensor 3: Temperatura medida: 88.00
+[Thu Oct  3 22:08:59 2024] Sensor 4: Temperatura medida: 82.00
+[Thu Oct  3 22:08:59 2024] ALERTA: Sensor 3 detectou temperatura alta 88.00
+[Thu Oct  3 22:08:59 2024] ALERTA: Sensor 4 detectou temperatura alta 82.00
+[Thu Oct  3 22:09:00 2024] Sensor 2: Temperatura medida: 54.00
+[Thu Oct  3 22:09:00 2024] Sensor 4: Temperatura medida: 70.00
+[Thu Oct  3 22:09:00 2024] Sensor 0: Temperatura medida: 14.00
+[Thu Oct  3 22:09:00 2024] Sensor 3: Temperatura medida: 45.00
+[Thu Oct  3 22:09:00 2024] Sensor 1: Temperatura medida: 50.00
+[Thu Oct  3 22:09:01 2024] Sensor 0: Temperatura medida: 93.00
+[Thu Oct  3 22:09:01 2024] Sensor 2: Temperatura medida: 50.00
+[Thu Oct  3 22:09:01 2024] Sensor 1: Temperatura medida: 75.00
+[Thu Oct  3 22:09:01 2024] Sensor 4: Temperatura medida: 37.00
+[Thu Oct  3 22:09:01 2024] Sensor 3: Temperatura medida: 26.00
+[Thu Oct  3 22:09:02 2024] Sensor 4: Temperatura medida: 84.00
+[Thu Oct  3 22:09:02 2024] Sensor 2: Temperatura medida: 27.00
+[Thu Oct  3 22:09:02 2024] Sensor 1: Temperatura medida: 72.00
+[Thu Oct  3 22:09:02 2024] Sensor 0: Temperatura medida: 15.00
+[Thu Oct  3 22:09:02 2024] Sensor 3: Temperatura medida: 41.00
+[Thu Oct  3 22:09:03 2024] ALERTA: Sensor 4 detectou temperatura alta 84.00
+[Thu Oct  3 22:09:03 2024] Sensor 2: Temperatura medida: 98.00
+[Thu Oct  3 22:09:03 2024] Sensor 1: Temperatura medida: 21.00
+[Thu Oct  3 22:09:03 2024] Sensor 3: Temperatura medida: 7.00
+[Thu Oct  3 22:09:03 2024] Sensor 4: Temperatura medida: 34.00
+[Thu Oct  3 22:09:03 2024] Sensor 0: Temperatura medida: 10.00
+[Thu Oct  3 22:09:04 2024] Sensor 2: Temperatura medida: 57.00
+[Thu Oct  3 22:09:04 2024] Sensor 1: Temperatura medida: 23.00
+[Thu Oct  3 22:09:04 2024] Sensor 4: Temperatura medida: 38.00
+[Thu Oct  3 22:09:04 2024] Sensor 0: Temperatura medida: 99.00
+[Thu Oct  3 22:09:04 2024] Sensor 3: Temperatura medida: 53.00
+[Thu Oct  3 22:09:05 2024] ALERTA: Sensor 0 detectou temperatura alta 99.00
+[Thu Oct  3 22:09:05 2024] Sensor 1: Temperatura medida: 47.00
+[Thu Oct  3 22:09:05 2024] Sensor 3: Temperatura medida: 54.00
+[Thu Oct  3 22:09:05 2024] Sensor 2: Temperatura medida: 54.00
+[Thu Oct  3 22:09:05 2024] Sensor 0: Temperatura medida: 43.00
+[Thu Oct  3 22:09:05 2024] Sensor 4: Temperatura medida: 30.00
+[Thu Oct  3 22:09:06 2024] Sensor 1: Temperatura medida: 88.00
+[Thu Oct  3 22:09:06 2024] Sensor 3: Temperatura medida: 36.00
+[Thu Oct  3 22:09:06 2024] Sensor 2: Temperatura medida: 57.00
+[Thu Oct  3 22:09:06 2024] Sensor 0: Temperatura medida: 34.00
+[Thu Oct  3 22:09:06 2024] Sensor 4: Temperatura medida: 7.00
+[Thu Oct  3 22:09:07 2024] ALERTA: Sensor 1 detectou temperatura alta 88.00
+[Thu Oct  3 22:09:07 2024] Sensor 1: Temperatura medida: 8.00
+[Thu Oct  3 22:09:07 2024] Sensor 3: Temperatura medida: 27.00
+[Thu Oct  3 22:09:07 2024] Sensor 2: Temperatura medida: 57.00
+[Thu Oct  3 22:09:07 2024] Sensor 0: Temperatura medida: 35.00
+[Thu Oct  3 22:09:07 2024] Sensor 4: Temperatura medida: 16.00
+[Thu Oct  3 22:09:08 2024] Sensor 1: Temperatura medida: 35.00
+[Thu Oct  3 22:09:08 2024] Sensor 3: Temperatura medida: 71.00
+[Thu Oct  3 22:09:08 2024] Sensor 0: Temperatura medida: 88.00
+[Thu Oct  3 22:09:08 2024] Sensor 2: Temperatura medida: 2.00
+[Thu Oct  3 22:09:08 2024] Sensor 4: Temperatura medida: 13.00
+[Thu Oct  3 22:09:09 2024] ALERTA: Sensor 0 detectou temperatura alta 88.00
+[Thu Oct  3 22:09:09 2024] Sensor 1: Temperatura medida: 68.00
+[Thu Oct  3 22:09:09 2024] Sensor 3: Temperatura medida: 0.00
+[Thu Oct  3 22:09:09 2024] Sensor 2: Temperatura medida: 34.00
+[Thu Oct  3 22:09:09 2024] Sensor 0: Temperatura medida: 2.00
+[Thu Oct  3 22:09:09 2024] Sensor 4: Temperatura medida: 8.00
+[Thu Oct  3 22:09:10 2024] Sensor 1: Temperatura medida: 97.00
+[Thu Oct  3 22:09:10 2024] Sensor 3: Temperatura medida: 35.00
+[Thu Oct  3 22:09:10 2024] Sensor 4: Temperatura medida: 65.00
+[Thu Oct  3 22:09:10 2024] Sensor 0: Temperatura medida: 83.00
+[Thu Oct  3 22:09:10 2024] Sensor 2: Temperatura medida: 11.00
+[Thu Oct  3 22:09:11 2024] ALERTA: Sensor 0 detectou temperatura alta 83.00
+[Thu Oct  3 22:09:11 2024] ALERTA: Sensor 1 detectou temperatura alta 97.00
+[Thu Oct  3 22:09:11 2024] Sensor 3: Temperatura medida: 34.00
+[Thu Oct  3 22:09:11 2024] Sensor 2: Temperatura medida: 65.00
+[Thu Oct  3 22:09:11 2024] Sensor 4: Temperatura medida: 19.00
+[Thu Oct  3 22:09:11 2024] Sensor 0: Temperatura medida: 89.00
+[Thu Oct  3 22:09:11 2024] Sensor 1: Temperatura medida: 82.00
+[Thu Oct  3 22:09:12 2024] Sensor 3: Temperatura medida: 62.00
+[Thu Oct  3 22:09:12 2024] Sensor 4: Temperatura medida: 72.00
+[Thu Oct  3 22:09:12 2024] Sensor 2: Temperatura medida: 77.00
+[Thu Oct  3 22:09:12 2024] Sensor 0: Temperatura medida: 1.00
+[Thu Oct  3 22:09:12 2024] Sensor 1: Temperatura medida: 63.00
+[Thu Oct  3 22:09:13 2024] ALERTA: Sensor 2 detectou temperatura alta 77.00
+[Thu Oct  3 22:09:13 2024] Sensor 4: Temperatura medida: 60.00
+[Thu Oct  3 22:09:13 2024] Sensor 3: Temperatura medida: 19.00
+[Thu Oct  3 22:09:13 2024] Sensor 0: Temperatura medida: 32.00
+[Thu Oct  3 22:09:13 2024] Sensor 1: Temperatura medida: 43.00
+[Thu Oct  3 22:09:13 2024] Sensor 2: Temperatura medida: 17.00
+[Thu Oct  3 22:09:14 2024] Sensor 0: Temperatura medida: 59.00
+[Thu Oct  3 22:09:14 2024] Sensor 4: Temperatura medida: 5.00
+[Thu Oct  3 22:09:14 2024] Sensor 2: Temperatura medida: 90.00
+[Thu Oct  3 22:09:14 2024] Sensor 1: Temperatura medida: 48.00
+[Thu Oct  3 22:09:14 2024] Sensor 3: Temperatura medida: 7.00
+[Thu Oct  3 22:09:15 2024] ALERTA: Sensor 2 detectou temperatura alta 90.00
+[Thu Oct  3 22:09:15 2024] Sensor 0: Temperatura medida: 3.00
+[Thu Oct  3 22:09:15 2024] Sensor 4: Temperatura medida: 16.00
+[Thu Oct  3 22:09:15 2024] Sensor 2: Temperatura medida: 8.00
+[Thu Oct  3 22:09:15 2024] Sensor 1: Temperatura medida: 90.00
+[Thu Oct  3 22:09:15 2024] Sensor 3: Temperatura medida: 70.00
+[Thu Oct  3 22:09:16 2024] Sensor 0: Temperatura medida: 68.00
+[Thu Oct  3 22:09:16 2024] Sensor 2: Temperatura medida: 39.00
+[Thu Oct  3 22:09:16 2024] Sensor 4: Temperatura medida: 81.00
+[Thu Oct  3 22:09:16 2024] Sensor 1: Temperatura medida: 3.00
+[Thu Oct  3 22:09:16 2024] Sensor 3: Temperatura medida: 74.00
+[Thu Oct  3 22:09:17 2024] ALERTA: Sensor 4 detectou temperatura alta 81.00
+[Thu Oct  3 22:09:17 2024] Sensor 0: Temperatura medida: 98.00
+[Thu Oct  3 22:09:17 2024] Sensor 4: Temperatura medida: 38.00
+[Thu Oct  3 22:09:17 2024] Sensor 2: Temperatura medida: 61.00
+[Thu Oct  3 22:09:17 2024] Sensor 1: Temperatura medida: 70.00
+[Thu Oct  3 22:09:17 2024] Sensor 3: Temperatura medida: 27.00
+[Thu Oct  3 22:09:18 2024] Sensor 4: Temperatura medida: 84.00
+[Thu Oct  3 22:09:18 2024] Sensor 0: Temperatura medida: 26.00
+[Thu Oct  3 22:09:18 2024] Sensor 2: Temperatura medida: 56.00
+[Thu Oct  3 22:09:18 2024] Sensor 3: Temperatura medida: 79.00
+[Thu Oct  3 22:09:18 2024] Sensor 1: Temperatura medida: 56.00
+[Thu Oct  3 22:09:19 2024] ALERTA: Sensor 3 detectou temperatura alta 79.00
+[Thu Oct  3 22:09:19 2024] ALERTA: Sensor 4 detectou temperatura alta 84.00
+[Thu Oct  3 22:09:19 2024] Sensor 4: Temperatura medida: 20.00
+[Thu Oct  3 22:09:19 2024] Sensor 0: Temperatura medida: 40.00
+[Thu Oct  3 22:09:19 2024] Sensor 2: Temperatura medida: 40.00
+[Thu Oct  3 22:09:19 2024] Sensor 3: Temperatura medida: 15.00
+[Thu Oct  3 22:09:19 2024] Sensor 1: Temperatura medida: 9.00
+[Thu Oct  3 22:09:20 2024] Sensor 4: Temperatura medida: 59.00
+[Thu Oct  3 22:09:20 2024] Sensor 0: Temperatura medida: 74.00
+[Thu Oct  3 22:09:20 2024] Sensor 2: Temperatura medida: 14.00
+[Thu Oct  3 22:09:20 2024] Sensor 3: Temperatura medida: 50.00
+[Thu Oct  3 22:09:20 2024] Sensor 1: Temperatura medida: 22.00
+[Thu Oct  3 22:09:21 2024] Sensor 2: Temperatura medida: 74.00
+[Thu Oct  3 22:09:21 2024] Sensor 0: Temperatura medida: 5.00
+[Thu Oct  3 22:09:21 2024] Sensor 4: Temperatura medida: 90.00
+[Thu Oct  3 22:09:21 2024] Sensor 3: Temperatura medida: 82.00
+[Thu Oct  3 22:09:21 2024] Sensor 1: Temperatura medida: 47.00
+[Thu Oct  3 22:09:22 2024] Sensor 2: Temperatura medida: 12.00
+[Thu Oct  3 22:09:22 2024] Sensor 1: Temperatura medida: 57.00
+[Thu Oct  3 22:09:22 2024] Sensor 4: Temperatura medida: 86.00
+[Thu Oct  3 22:09:22 2024] Sensor 3: Temperatura medida: 46.00
+[Thu Oct  3 22:09:22 2024] Sensor 0: Temperatura medida: 2.00
+[Thu Oct  3 22:09:23 2024] ALERTA: Sensor 4 detectou temperatura alta 86.00
+[Thu Oct  3 22:09:23 2024] Sensor 2: Temperatura medida: 13.00
+[Thu Oct  3 22:09:23 2024] Sensor 1: Temperatura medida: 44.00
+[Thu Oct  3 22:09:23 2024] Sensor 4: Temperatura medida: 14.00
+[Thu Oct  3 22:09:23 2024] Sensor 0: Temperatura medida: 74.00
+[Thu Oct  3 22:09:23 2024] Sensor 3: Temperatura medida: 95.00
+[Thu Oct  3 22:09:24 2024] Sensor 2: Temperatura medida: 74.00
+[Thu Oct  3 22:09:24 2024] Sensor 4: Temperatura medida: 99.00
+[Thu Oct  3 22:09:24 2024] Sensor 0: Temperatura medida: 31.00
+[Thu Oct  3 22:09:24 2024] Sensor 1: Temperatura medida: 52.00
+[Thu Oct  3 22:09:24 2024] Sensor 3: Temperatura medida: 31.00
+[Thu Oct  3 22:09:25 2024] ALERTA: Sensor 4 detectou temperatura alta 99.00
+[Thu Oct  3 22:09:25 2024] Sensor 4: Temperatura medida: 7.00
+[Thu Oct  3 22:09:25 2024] Sensor 2: Temperatura medida: 3.00
+[Thu Oct  3 22:09:25 2024] Sensor 0: Temperatura medida: 23.00
+[Thu Oct  3 22:09:25 2024] Sensor 1: Temperatura medida: 0.00
+[Thu Oct  3 22:09:25 2024] Sensor 3: Temperatura medida: 18.00
+[Thu Oct  3 22:09:26 2024] Sensor 4: Temperatura medida: 59.00
+[Thu Oct  3 22:09:26 2024] Sensor 2: Temperatura medida: 33.00
+[Thu Oct  3 22:09:26 2024] Sensor 0: Temperatura medida: 44.00
+[Thu Oct  3 22:09:26 2024] Sensor 1: Temperatura medida: 99.00
+[Thu Oct  3 22:09:26 2024] Sensor 3: Temperatura medida: 61.00
+[Thu Oct  3 22:09:27 2024] ALERTA: Sensor 1 detectou temperatura alta 99.00
+[Thu Oct  3 22:09:27 2024] Sensor 2: Temperatura medida: 73.00
+[Thu Oct  3 22:09:27 2024] Sensor 4: Temperatura medida: 19.00
+[Thu Oct  3 22:09:27 2024] Sensor 1: Temperatura medida: 9.00
+[Thu Oct  3 22:09:27 2024] Sensor 3: Temperatura medida: 7.00
+[Thu Oct  3 22:09:27 2024] Sensor 0: Temperatura medida: 67.00
+[Thu Oct  3 22:09:28 2024] Sensor 3: Temperatura medida: 14.00
+[Thu Oct  3 22:09:28 2024] Sensor 2: Temperatura medida: 74.00
+[Thu Oct  3 22:09:28 2024] Sensor 1: Temperatura medida: 9.00
+[Thu Oct  3 22:09:28 2024] Sensor 0: Temperatura medida: 53.00
+[Thu Oct  3 22:09:28 2024] Sensor 4: Temperatura medida: 20.00
+[Thu Oct  3 22:09:29 2024] Sensor 3: Temperatura medida: 66.00
+[Thu Oct  3 22:09:29 2024] Sensor 1: Temperatura medida: 16.00
+[Thu Oct  3 22:09:29 2024] Sensor 0: Temperatura medida: 14.00
+[Thu Oct  3 22:09:29 2024] Sensor 2: Temperatura medida: 67.00
+[Thu Oct  3 22:09:29 2024] Sensor 4: Temperatura medida: 40.00
+[Thu Oct  3 22:09:30 2024] Sensor 3: Temperatura medida: 31.00
+[Thu Oct  3 22:09:30 2024] Sensor 4: Temperatura medida: 89.00
+[Thu Oct  3 22:09:30 2024] Sensor 0: Temperatura medida: 82.00
+[Thu Oct  3 22:09:30 2024] Sensor 2: Temperatura medida: 72.00
+[Thu Oct  3 22:09:30 2024] Sensor 1: Temperatura medida: 44.00
+[Thu Oct  3 22:09:31 2024] ALERTA: Sensor 0 detectou temperatura alta 82.00
+[Thu Oct  3 22:09:31 2024] ALERTA: Sensor 4 detectou temperatura alta 89.00
+[Thu Oct  3 22:09:31 2024] Sensor 4: Temperatura medida: 75.00
+[Thu Oct  3 22:09:31 2024] Sensor 3: Temperatura medida: 41.00
+[Thu Oct  3 22:09:31 2024] Sensor 2: Temperatura medida: 27.00
+[Thu Oct  3 22:09:31 2024] Sensor 1: Temperatura medida: 51.00
+[Thu Oct  3 22:09:31 2024] Sensor 0: Temperatura medida: 41.00
+[Thu Oct  3 22:09:32 2024] Sensor 2: Temperatura medida: 84.00
+[Thu Oct  3 22:09:32 2024] Sensor 3: Temperatura medida: 45.00
+[Thu Oct  3 22:09:32 2024] Sensor 1: Temperatura medida: 1.00
+[Thu Oct  3 22:09:32 2024] Sensor 0: Temperatura medida: 83.00
+[Thu Oct  3 22:09:32 2024] Sensor 4: Temperatura medida: 41.00
+[Thu Oct  3 22:09:33 2024] ALERTA: Sensor 0 detectou temperatura alta 83.00
+[Thu Oct  3 22:09:33 2024] ALERTA: Sensor 2 detectou temperatura alta 84.00
+[Thu Oct  3 22:09:33 2024] Sensor 2: Temperatura medida: 14.00
+[Thu Oct  3 22:09:33 2024] Sensor 1: Temperatura medida: 9.00
+[Thu Oct  3 22:09:33 2024] Sensor 4: Temperatura medida: 60.00
+[Thu Oct  3 22:09:33 2024] Sensor 0: Temperatura medida: 81.00
+[Thu Oct  3 22:09:33 2024] Sensor 3: Temperatura medida: 22.00
+[Thu Oct  3 22:09:34 2024] Sensor 2: Temperatura medida: 16.00
+[Thu Oct  3 22:09:34 2024] Sensor 1: Temperatura medida: 48.00
+[Thu Oct  3 22:09:34 2024] Sensor 0: Temperatura medida: 78.00
+[Thu Oct  3 22:09:34 2024] Sensor 4: Temperatura medida: 96.00
+[Thu Oct  3 22:09:34 2024] Sensor 3: Temperatura medida: 53.00
+[Thu Oct  3 22:09:35 2024] ALERTA: Sensor 0 detectou temperatura alta 78.00
+[Thu Oct  3 22:09:35 2024] ALERTA: Sensor 4 detectou temperatura alta 96.00
+[Thu Oct  3 22:09:35 2024] Sensor 4: Temperatura medida: 16.00
+[Thu Oct  3 22:09:35 2024] Sensor 3: Temperatura medida: 32.00
+[Thu Oct  3 22:09:35 2024] Sensor 2: Temperatura medida: 19.00
+[Thu Oct  3 22:09:35 2024] Sensor 1: Temperatura medida: 11.00
+[Thu Oct  3 22:09:35 2024] Sensor 0: Temperatura medida: 97.00
+[Thu Oct  3 22:09:36 2024] Sensor 2: Temperatura medida: 11.00
+[Thu Oct  3 22:09:36 2024] Sensor 1: Temperatura medida: 15.00
+[Thu Oct  3 22:09:36 2024] Sensor 3: Temperatura medida: 0.00
+[Thu Oct  3 22:09:36 2024] Sensor 4: Temperatura medida: 55.00
+[Thu Oct  3 22:09:36 2024] Sensor 0: Temperatura medida: 49.00
+[Thu Oct  3 22:09:37 2024] Sensor 2: Temperatura medida: 24.00
+[Thu Oct  3 22:09:37 2024] Sensor 1: Temperatura medida: 82.00
+[Thu Oct  3 22:09:37 2024] Sensor 3: Temperatura medida: 91.00
+[Thu Oct  3 22:09:37 2024] Sensor 4: Temperatura medida: 51.00
+[Thu Oct  3 22:09:37 2024] Sensor 0: Temperatura medida: 33.00
+[Thu Oct  3 22:09:38 2024] Sensor 3: Temperatura medida: 84.00
+[Thu Oct  3 22:09:38 2024] Sensor 4: Temperatura medida: 48.00
+[Thu Oct  3 22:09:38 2024] Sensor 2: Temperatura medida: 69.00
+[Thu Oct  3 22:09:38 2024] Sensor 0: Temperatura medida: 37.00
+[Thu Oct  3 22:09:38 2024] Sensor 1: Temperatura medida: 90.00
+[Thu Oct  3 22:09:39 2024] ALERTA: Sensor 1 detectou temperatura alta 90.00
+[Thu Oct  3 22:09:39 2024] ALERTA: Sensor 3 detectou temperatura alta 84.00
+[Thu Oct  3 22:09:39 2024] Sensor 2: Temperatura medida: 5.00
+[Thu Oct  3 22:09:39 2024] Sensor 0: Temperatura medida: 50.00
+[Thu Oct  3 22:09:39 2024] Sensor 3: Temperatura medida: 52.00
+[Thu Oct  3 22:09:39 2024] Sensor 1: Temperatura medida: 14.00
+[Thu Oct  3 22:09:39 2024] Sensor 4: Temperatura medida: 85.00
+[Thu Oct  3 22:09:40 2024] Sensor 1: Temperatura medida: 72.00
+[Thu Oct  3 22:09:40 2024] Sensor 4: Temperatura medida: 8.00
+[Thu Oct  3 22:09:40 2024] Sensor 3: Temperatura medida: 33.00
+[Thu Oct  3 22:09:40 2024] Sensor 0: Temperatura medida: 68.00
+[Thu Oct  3 22:09:40 2024] Sensor 2: Temperatura medida: 30.00
+[Thu Oct  3 22:09:41 2024] Sensor 4: Temperatura medida: 36.00
+[Thu Oct  3 22:09:41 2024] Sensor 1: Temperatura medida: 86.00
+[Thu Oct  3 22:09:41 2024] Sensor 0: Temperatura medida: 57.00
+[Thu Oct  3 22:09:41 2024] Sensor 2: Temperatura medida: 21.00
+[Thu Oct  3 22:09:41 2024] Sensor 3: Temperatura medida: 5.00
+[Thu Oct  3 22:09:42 2024] Sensor 3: Temperatura medida: 20.00
+[Thu Oct  3 22:09:42 2024] Sensor 0: Temperatura medida: 69.00
+[Thu Oct  3 22:09:42 2024] Sensor 1: Temperatura medida: 36.00
+[Thu Oct  3 22:09:42 2024] Sensor 2: Temperatura medida: 21.00
+[Thu Oct  3 22:09:42 2024] Sensor 4: Temperatura medida: 75.00
+[Thu Oct  3 22:09:43 2024] Sensor 3: Temperatura medida: 86.00
+[Thu Oct  3 22:09:43 2024] Sensor 1: Temperatura medida: 46.00
+[Thu Oct  3 22:09:43 2024] Sensor 4: Temperatura medida: 29.00
+[Thu Oct  3 22:09:43 2024] Sensor 0: Temperatura medida: 10.00
+[Thu Oct  3 22:09:43 2024] Sensor 2: Temperatura medida: 49.00
+[Thu Oct  3 22:09:44 2024] Sensor 3: Temperatura medida: 43.00
+[Thu Oct  3 22:09:44 2024] Sensor 1: Temperatura medida: 65.00
+[Thu Oct  3 22:09:44 2024] Sensor 0: Temperatura medida: 98.00
+[Thu Oct  3 22:09:44 2024] Sensor 4: Temperatura medida: 65.00
+[Thu Oct  3 22:09:44 2024] Sensor 2: Temperatura medida: 3.00
+[Thu Oct  3 22:09:45 2024] ALERTA: Sensor 0 detectou temperatura alta 98.00
+[Thu Oct  3 22:09:45 2024] Sensor 1: Temperatura medida: 70.00
+[Thu Oct  3 22:09:45 2024] Sensor 4: Temperatura medida: 38.00
+[Thu Oct  3 22:09:45 2024] Sensor 0: Temperatura medida: 7.00
+[Thu Oct  3 22:09:45 2024] Sensor 3: Temperatura medida: 88.00
+[Thu Oct  3 22:09:45 2024] Sensor 2: Temperatura medida: 84.00
+[Thu Oct  3 22:09:46 2024] Sensor 1: Temperatura medida: 92.00
+[Thu Oct  3 22:09:46 2024] Sensor 2: Temperatura medida: 63.00
+[Thu Oct  3 22:09:46 2024] Sensor 3: Temperatura medida: 14.00
+[Thu Oct  3 22:09:46 2024] Sensor 4: Temperatura medida: 78.00
+[Thu Oct  3 22:09:46 2024] Sensor 0: Temperatura medida: 83.00
+[Thu Oct  3 22:10:37 2024] Sensor 0: Temperatura medida: 63.00
+[Thu Oct  3 22:10:37 2024] Sensor 1: Temperatura medida: 1.00
+[Thu Oct  3 22:10:37 2024] Sensor 3: Temperatura medida: 25.00
+[Thu Oct  3 22:10:37 2024] Sensor 2: Temperatura medida: 33.00
+[Thu Oct  3 22:10:37 2024] Sensor 4: Temperatura medida: 93.00
+[Thu Oct  3 22:10:38 2024] Sensor 1: Temperatura medida: 54.00
+[Thu Oct  3 22:10:38 2024] Sensor 0: Temperatura medida: 0.00
+[Thu Oct  3 22:10:38 2024] Sensor 3: Temperatura medida: 10.00
+[Thu Oct  3 22:10:38 2024] Sensor 4: Temperatura medida: 76.00
+[Thu Oct  3 22:10:38 2024] Sensor 2: Temperatura medida: 38.00
+[Thu Oct  3 22:10:39 2024] Sensor 1: Temperatura medida: 90.00
+[Thu Oct  3 22:10:39 2024] Sensor 0: Temperatura medida: 14.00
+[Thu Oct  3 22:10:39 2024] ALERTA: Sensor 1 detectou temperatura alta 90.00
+[Thu Oct  3 22:10:39 2024] ALERTA: Sensor 4 detectou temperatura alta 76.00
+[Thu Oct  3 22:10:39 2024] Sensor 3: Temperatura medida: 72.00
+[Thu Oct  3 22:10:39 2024] Sensor 4: Temperatura medida: 31.00
+[Thu Oct  3 22:10:39 2024] Sensor 2: Temperatura medida: 94.00
+[Thu Oct  3 22:10:40 2024] Sensor 1: Temperatura medida: 29.00
+[Thu Oct  3 22:10:40 2024] Sensor 0: Temperatura medida: 83.00
+[Thu Oct  3 22:10:40 2024] Sensor 3: Temperatura medida: 87.00
+[Thu Oct  3 22:10:40 2024] Sensor 4: Temperatura medida: 97.00
+[Thu Oct  3 22:10:40 2024] Sensor 2: Temperatura medida: 59.00
+[Thu Oct  3 22:10:41 2024] ALERTA: Sensor 0 detectou temperatura alta 83.00
+[Thu Oct  3 22:10:41 2024] Sensor 1: Temperatura medida: 10.00
+[Thu Oct  3 22:10:41 2024] ALERTA: Sensor 3 detectou temperatura alta 87.00
+[Thu Oct  3 22:10:41 2024] Sensor 0: Temperatura medida: 86.00
+[Thu Oct  3 22:10:41 2024] ALERTA: Sensor 4 detectou temperatura alta 97.00
+[Thu Oct  3 22:10:41 2024] Sensor 3: Temperatura medida: 46.00
+[Thu Oct  3 22:10:41 2024] Sensor 4: Temperatura medida: 82.00
+[Thu Oct  3 22:10:41 2024] Sensor 2: Temperatura medida: 65.00
+[Thu Oct  3 22:10:42 2024] Sensor 0: Temperatura medida: 35.00
+[Thu Oct  3 22:10:42 2024] Sensor 1: Temperatura medida: 82.00
+[Thu Oct  3 22:10:42 2024] Sensor 3: Temperatura medida: 26.00
+[Thu Oct  3 22:10:42 2024] Sensor 4: Temperatura medida: 50.00
+[Thu Oct  3 22:10:42 2024] Sensor 2: Temperatura medida: 48.00
+[Thu Oct  3 22:10:43 2024] ALERTA: Sensor 1 detectou temperatura alta 82.00
+[Thu Oct  3 22:10:43 2024] Sensor 0: Temperatura medida: 92.00
+[Thu Oct  3 22:10:43 2024] Sensor 1: Temperatura medida: 65.00
+[Thu Oct  3 22:10:43 2024] Sensor 3: Temperatura medida: 1.00
+[Thu Oct  3 22:10:43 2024] Sensor 4: Temperatura medida: 77.00
+[Thu Oct  3 22:10:43 2024] Sensor 2: Temperatura medida: 90.00
+[Thu Oct  3 22:10:44 2024] Sensor 0: Temperatura medida: 94.00
+[Thu Oct  3 22:10:44 2024] Sensor 3: Temperatura medida: 32.00
+[Thu Oct  3 22:10:44 2024] Sensor 1: Temperatura medida: 57.00
+[Thu Oct  3 22:10:44 2024] Sensor 4: Temperatura medida: 90.00
+[Thu Oct  3 22:10:44 2024] Sensor 2: Temperatura medida: 8.00
+[Thu Oct  3 22:10:45 2024] ALERTA: Sensor 0 detectou temperatura alta 94.00
+[Thu Oct  3 22:10:45 2024] ALERTA: Sensor 4 detectou temperatura alta 90.00
+[Thu Oct  3 22:10:45 2024] Sensor 0: Temperatura medida: 80.00
+[Thu Oct  3 22:10:45 2024] Sensor 1: Temperatura medida: 47.00
+[Thu Oct  3 22:10:45 2024] Sensor 4: Temperatura medida: 4.00
+[Thu Oct  3 22:10:45 2024] Sensor 2: Temperatura medida: 78.00
+[Thu Oct  3 22:10:45 2024] Sensor 3: Temperatura medida: 75.00
+[Thu Oct  3 22:10:46 2024] Sensor 0: Temperatura medida: 69.00
+[Thu Oct  3 22:10:46 2024] Sensor 4: Temperatura medida: 87.00
+[Thu Oct  3 22:10:46 2024] Sensor 1: Temperatura medida: 60.00
+[Thu Oct  3 22:10:46 2024] Sensor 2: Temperatura medida: 56.00
+[Thu Oct  3 22:10:46 2024] Sensor 3: Temperatura medida: 37.00
+[Thu Oct  3 22:10:47 2024] ALERTA: Sensor 4 detectou temperatura alta 87.00
+[Thu Oct  3 22:10:47 2024] Sensor 4: Temperatura medida: 71.00
+[Thu Oct  3 22:10:47 2024] Sensor 1: Temperatura medida: 18.00
+[Thu Oct  3 22:10:47 2024] Sensor 0: Temperatura medida: 23.00
+[Thu Oct  3 22:10:47 2024] Sensor 2: Temperatura medida: 17.00
+[Thu Oct  3 22:10:47 2024] Sensor 3: Temperatura medida: 53.00
+[Thu Oct  3 22:10:48 2024] Sensor 0: Temperatura medida: 40.00
+[Thu Oct  3 22:10:48 2024] Sensor 4: Temperatura medida: 99.00
+[Thu Oct  3 22:10:48 2024] Sensor 1: Temperatura medida: 88.00
+[Thu Oct  3 22:10:48 2024] Sensor 3: Temperatura medida: 1.00
+[Thu Oct  3 22:10:48 2024] Sensor 2: Temperatura medida: 66.00
+[Thu Oct  3 22:10:49 2024] ALERTA: Sensor 1 detectou temperatura alta 88.00
+[Thu Oct  3 22:10:49 2024] ALERTA: Sensor 4 detectou temperatura alta 99.00
+[Thu Oct  3 22:10:49 2024] Sensor 0: Temperatura medida: 88.00
+[Thu Oct  3 22:10:49 2024] Sensor 1: Temperatura medida: 90.00
+[Thu Oct  3 22:10:49 2024] Sensor 3: Temperatura medida: 67.00
+[Thu Oct  3 22:10:49 2024] Sensor 4: Temperatura medida: 10.00
+[Thu Oct  3 22:10:49 2024] Sensor 2: Temperatura medida: 40.00
+[Thu Oct  3 22:10:50 2024] Sensor 1: Temperatura medida: 36.00
+[Thu Oct  3 22:10:50 2024] Sensor 0: Temperatura medida: 9.00
+[Thu Oct  3 22:10:50 2024] Sensor 4: Temperatura medida: 72.00
+[Thu Oct  3 22:10:50 2024] Sensor 2: Temperatura medida: 0.00
+[Thu Oct  3 22:10:50 2024] Sensor 3: Temperatura medida: 93.00
+[Thu Oct  3 22:10:51 2024] ALERTA: Sensor 3 detectou temperatura alta 93.00
+[Thu Oct  3 22:10:51 2024] Sensor 2: Temperatura medida: 93.00
+[Thu Oct  3 22:10:51 2024] Sensor 1: Temperatura medida: 32.00
+[Thu Oct  3 22:10:51 2024] Sensor 4: Temperatura medida: 7.00
+[Thu Oct  3 22:10:51 2024] Sensor 3: Temperatura medida: 89.00
+[Thu Oct  3 22:10:51 2024] Sensor 0: Temperatura medida: 32.00
+[Thu Oct  3 22:10:52 2024] Sensor 4: Temperatura medida: 71.00
+[Thu Oct  3 22:10:52 2024] Sensor 1: Temperatura medida: 77.00
+[Thu Oct  3 22:10:52 2024] Sensor 0: Temperatura medida: 85.00
+[Thu Oct  3 22:10:52 2024] Sensor 2: Temperatura medida: 76.00
+[Thu Oct  3 22:10:52 2024] Sensor 3: Temperatura medida: 83.00
+[Thu Oct  3 22:10:53 2024] ALERTA: Sensor 0 detectou temperatura alta 85.00
+[Thu Oct  3 22:10:53 2024] ALERTA: Sensor 1 detectou temperatura alta 77.00
+[Thu Oct  3 22:10:53 2024] ALERTA: Sensor 2 detectou temperatura alta 76.00
+[Thu Oct  3 22:10:53 2024] ALERTA: Sensor 3 detectou temperatura alta 83.00
+[Thu Oct  3 22:10:53 2024] Sensor 1: Temperatura medida: 65.00
+[Thu Oct  3 22:10:53 2024] Sensor 2: Temperatura medida: 88.00
+[Thu Oct  3 22:10:53 2024] Sensor 3: Temperatura medida: 72.00
+[Thu Oct  3 22:10:53 2024] Sensor 4: Temperatura medida: 55.00
+[Thu Oct  3 22:10:53 2024] Sensor 0: Temperatura medida: 4.00
+[Thu Oct  3 22:10:54 2024] Sensor 3: Temperatura medida: 57.00
+[Thu Oct  3 22:10:54 2024] Sensor 2: Temperatura medida: 80.00
+[Thu Oct  3 22:10:54 2024] Sensor 1: Temperatura medida: 24.00
+[Thu Oct  3 22:10:54 2024] Sensor 4: Temperatura medida: 45.00
+[Thu Oct  3 22:10:54 2024] Sensor 0: Temperatura medida: 99.00
+[Thu Oct  3 22:13:54 2024] Sensor 0: Temperatura medida: 96.00
+[Thu Oct  3 22:13:54 2024] Sensor 3: Temperatura medida: 66.00
+[Thu Oct  3 22:13:54 2024] Sensor 2: Temperatura medida: 78.00
+[Thu Oct  3 22:13:54 2024] ALERTA: Sensor 0 detectou temperatura alta 96.00
+[Thu Oct  3 22:13:54 2024] Sensor 1: Temperatura medida: 9.00
+[Thu Oct  3 22:13:54 2024] Sensor 4: Temperatura medida: 87.00
+[Thu Oct  3 22:13:54 2024] ALERTA: Sensor 2 detectou temperatura alta 78.00
+[Thu Oct  3 22:13:54 2024] ALERTA: Sensor 4 detectou temperatura alta 87.00
+[Thu Oct  3 22:13:55 2024] Sensor 0: Temperatura medida: 97.00
+[Thu Oct  3 22:13:55 2024] Sensor 3: Temperatura medida: 16.00
+[Thu Oct  3 22:13:55 2024] Sensor 2: Temperatura medida: 80.00
+[Thu Oct  3 22:13:55 2024] Sensor 1: Temperatura medida: 85.00
+[Thu Oct  3 22:13:55 2024] Sensor 4: Temperatura medida: 3.00
+[Thu Oct  3 22:13:56 2024] Sensor 0: Temperatura medida: 30.00
+[Thu Oct  3 22:13:56 2024] Sensor 2: Temperatura medida: 18.00
+[Thu Oct  3 22:13:56 2024] Sensor 3: Temperatura medida: 97.00
+[Thu Oct  3 22:13:56 2024] ALERTA: Sensor 1 detectou temperatura alta 85.00
+[Thu Oct  3 22:13:56 2024] Sensor 4: Temperatura medida: 99.00
+[Thu Oct  3 22:13:56 2024] ALERTA: Sensor 3 detectou temperatura alta 97.00
+[Thu Oct  3 22:13:56 2024] Sensor 1: Temperatura medida: 66.00
+[Thu Oct  3 22:13:56 2024] ALERTA: Sensor 4 detectou temperatura alta 99.00
+[Thu Oct  3 22:13:57 2024] Sensor 3: Temperatura medida: 41.00
+[Thu Oct  3 22:13:57 2024] Sensor 0: Temperatura medida: 46.00
+[Thu Oct  3 22:13:57 2024] Sensor 2: Temperatura medida: 52.00
+[Thu Oct  3 22:13:57 2024] Sensor 4: Temperatura medida: 5.00
+[Thu Oct  3 22:13:57 2024] Sensor 1: Temperatura medida: 28.00
+[Thu Oct  3 22:13:58 2024] Sensor 3: Temperatura medida: 4.00
+[Thu Oct  3 22:13:58 2024] Sensor 0: Temperatura medida: 6.00
+[Thu Oct  3 22:13:58 2024] Sensor 4: Temperatura medida: 18.00
+[Thu Oct  3 22:13:58 2024] Sensor 1: Temperatura medida: 66.00
+[Thu Oct  3 22:13:58 2024] Sensor 2: Temperatura medida: 26.00
+[Thu Oct  3 22:13:59 2024] Sensor 3: Temperatura medida: 41.00
+[Thu Oct  3 22:13:59 2024] Sensor 0: Temperatura medida: 72.00
+[Thu Oct  3 22:13:59 2024] Sensor 4: Temperatura medida: 84.00
+[Thu Oct  3 22:13:59 2024] Sensor 1: Temperatura medida: 11.00
+[Thu Oct  3 22:13:59 2024] Sensor 2: Temperatura medida: 73.00
+[Thu Oct  3 22:14:00 2024] ALERTA: Sensor 4 detectou temperatura alta 84.00
+[Thu Oct  3 22:14:00 2024] Sensor 0: Temperatura medida: 39.00
+[Thu Oct  3 22:14:00 2024] Sensor 3: Temperatura medida: 59.00
+[Thu Oct  3 22:14:00 2024] Sensor 2: Temperatura medida: 37.00
+[Thu Oct  3 22:14:00 2024] Sensor 1: Temperatura medida: 6.00
+[Thu Oct  3 22:14:00 2024] Sensor 4: Temperatura medida: 82.00
+[Thu Oct  3 22:14:01 2024] Sensor 3: Temperatura medida: 70.00
+[Thu Oct  3 22:14:01 2024] Sensor 4: Temperatura medida: 2.00
+[Thu Oct  3 22:14:01 2024] Sensor 0: Temperatura medida: 5.00
+[Thu Oct  3 22:14:01 2024] Sensor 2: Temperatura medida: 55.00
+[Thu Oct  3 22:14:01 2024] Sensor 1: Temperatura medida: 41.00
+[] Sensor 3: Temperatura medida: 9.00
+[Thu Oct  3 22:14:02 2024] Sensor 4: Temperatura medida: 32.00
+[Thu Oct  3 22:14:02 2024] Sensor 1: Temperatura medida: 79.00
+[Thu Oct  3 22:14:02 2024] Sensor 0: Temperatura medida: 90.00
+[Thu Oct  3 22:14:02 2024] Sensor 2: Temperatura medida: 83.00
+[Thu Oct  3 22:14:03 2024] Sensor 3: Temperatura medida: 21.00
+[Thu Oct  3 22:14:03 2024] Sensor 1: Temperatura medida: 8.00
+[Thu Oct  3 22:14:03 2024] Sensor 4: Temperatura medida: 82.00
+[Thu Oct  3 22:14:03 2024] Sensor 0: Temperatura medida: 61.00
+[Thu Oct  3 22:14:03 2024] Sensor 2: Temperatura medida: 78.00
+[Thu Oct  3 22:14:04 2024] ALERTA: Sensor 2 detectou temperatura alta 78.00
+[Thu Oct  3 22:14:04 2024] ALERTA: Sensor 4 detectou temperatura alta 82.00
+[Thu Oct  3 22:14:04 2024] Sensor 3: Temperatura medida: 65.00
+[Thu Oct  3 22:14:04 2024] Sensor 4: Temperatura medida: 84.00
+[Thu Oct  3 22:14:04 2024] Sensor 1: Temperatura medida: 10.00
+[Thu Oct  3 22:14:04 2024] Sensor 0: Temperatura medida: 88.00
+[Thu Oct  3 22:14:04 2024] Sensor 2: Temperatura medida: 84.00
+[Thu Oct  3 22:14:05 2024] Sensor 2: Temperatura medida: 60.00
+[Thu Oct  3 22:14:05 2024] Sensor 4: Temperatura medida: 77.00
+[Thu Oct  3 22:14:05 2024] Sensor 3: Temperatura medida: 2.00
+[Thu Oct  3 22:14:05 2024] Sensor 0: Temperatura medida: 38.00
+[Thu Oct  3 22:14:05 2024] Sensor 1: Temperatura medida: 23.00
+[Thu Oct  3 22:14:06 2024] ALERTA: Sensor 4 detectou temperatura alta 77.00
+[Thu Oct  3 22:14:06 2024] Sensor 4: Temperatura medida: 50.00
+[Thu Oct  3 22:14:06 2024] Sensor 2: Temperatura medida: 78.00
+[Thu Oct  3 22:14:06 2024] Sensor 1: Temperatura medida: 36.00
+[Thu Oct  3 22:14:06 2024] Sensor 0: Temperatura medida: 33.00
+[Thu Oct  3 22:14:06 2024] Sensor 3: Temperatura medida: 82.00
+[Thu Oct  3 22:14:07 2024] Sensor 2: Temperatura medida: 91.00
+[Thu Oct  3 22:14:07 2024] Sensor 3: Temperatura medida: 57.00
+[Thu Oct  3 22:14:07 2024] Sensor 4: Temperatura medida: 72.00
+[Thu Oct  3 22:14:07 2024] Sensor 0: Temperatura medida: 29.00
+[Thu Oct  3 22:14:07 2024] Sensor 1: Temperatura medida: 55.00
+[Thu Oct  3 22:14:08 2024] ALERTA: Sensor 2 detectou temperatura alta 91.00
+[Thu Oct  3 22:14:08 2024] Sensor 4: Temperatura medida: 84.00
+[] Sensor 1: Temperatura medida: 70.00
+[Thu Oct  3 22:14:08 2024] Sensor 3: Temperatura medida: 89.00
+[Thu Oct  3 22:14:08 2024] Sensor 0: Temperatura medida: 27.00
+[Thu Oct  3 22:14:08 2024] Sensor 2: Temperatura medida: 90.00
+[Thu Oct  3 22:14:09 2024] Sensor 0: Temperatura medida: 43.00
+[Thu Oct  3 22:14:09 2024] Sensor 1: Temperatura medida: 72.00
+[Thu Oct  3 22:14:09 2024] Sensor 3: Temperatura medida: 35.00
+[Thu Oct  3 22:14:09 2024] Sensor 4: Temperatura medida: 54.00
+[Thu Oct  3 22:14:09 2024] Sensor 2: Temperatura medida: 96.00
+[Thu Oct  3 22:14:10 2024] ALERTA: Sensor 2 detectou temperatura alta 96.00
+[Thu Oct  3 22:14:10 2024] Sensor 0: Temperatura medida: 21.00
+[Thu Oct  3 22:14:10 2024] Sensor 3: Temperatura medida: 14.00
+[Thu Oct  3 22:14:10 2024] Sensor 4: Temperatura medida: 57.00
+[Thu Oct  3 22:14:10 2024] Sensor 2: Temperatura medida: 5.00
+[Thu Oct  3 22:14:10 2024] Sensor 1: Temperatura medida: 17.00
+[Thu Oct  3 22:14:11 2024] Sensor 4: Temperatura medida: 98.00
+[Thu Oct  3 22:14:11 2024] Sensor 2: Temperatura medida: 60.00
+[Thu Oct  3 22:14:11 2024] Sensor 3: Temperatura medida: 66.00
+[Thu Oct  3 22:14:11 2024] Sensor 0: Temperatura medida: 75.00
+[Thu Oct  3 22:14:11 2024] Sensor 1: Temperatura medida: 98.00
+[Thu Oct  3 22:14:12 2024] ALERTA: Sensor 1 detectou temperatura alta 98.00
+[Thu Oct  3 22:14:12 2024] ALERTA: Sensor 4 detectou temperatura alta 98.00
+[Thu Oct  3 22:14:12 2024] Sensor 3: Temperatura medida: 28.00
+[Thu Oct  3 22:14:12 2024] Sensor 0: Temperatura medida: 76.00
+[Thu Oct  3 22:14:12 2024] Sensor 4: Temperatura medida: 41.00
+[Thu Oct  3 22:14:12 2024] Sensor 1: Temperatura medida: 11.00
+[Thu Oct  3 22:14:12 2024] Sensor 2: Temperatura medida: 78.00
+[Thu Oct  3 22:14:13 2024] Sensor 0: Temperatura medida: 48.00
+[Thu Oct  3 22:14:13 2024] Sensor 3: Temperatura medida: 18.00
+[Thu Oct  3 22:14:13 2024] Sensor 4: Temperatura medida: 64.00
+[Thu Oct  3 22:14:13 2024] Sensor 1: Temperatura medida: 8.00
+[Thu Oct  3 22:14:13 2024] Sensor 2: Temperatura medida: 29.00
+[Thu Oct  3 22:14:14 2024] Sensor 0: Temperatura medida: 75.00
+[Thu Oct  3 22:14:14 2024] Sensor 3: Temperatura medida: 92.00
+[Thu Oct  3 22:14:14 2024] Sensor 1: Temperatura medida: 20.00
+[Thu Oct  3 22:14:14 2024] Sensor 4: Temperatura medida: 16.00
+[Thu Oct  3 22:14:14 2024] Sensor 2: Temperatura medida: 71.00
+[Thu Oct  3 22:14:15 2024] Sensor 3: Temperatura medida: 42.00
+[Thu Oct  3 22:14:15 2024] Sensor 0: Temperatura medida: 40.00
+[Thu Oct  3 22:14:15 2024] Sensor 1: Temperatura medida: 7.00
+[Thu Oct  3 22:14:15 2024] Sensor 2: Temperatura medida: 85.00
+[Thu Oct  3 22:14:15 2024] Sensor 4: Temperatura medida: 95.00
+[Thu Oct  3 22:14:16 2024] ALERTA: Sensor 2 detectou temperatura alta 85.00
+[Thu Oct  3 22:14:16 2024] ALERTA: Sensor 4 detectou temperatura alta 95.00
+[Thu Oct  3 22:14:16 2024] Sensor 3: Temperatura medida: 55.00
+[Thu Oct  3 22:14:16 2024] Sensor 1: Temperatura medida: 64.00
+[Thu Oct  3 22:14:16 2024] Sensor 2: Temperatura medida: 69.00
+[Thu Oct  3 22:14:16 2024] Sensor 0: Temperatura medida: 58.00
+[Thu Oct  3 22:14:16 2024] Sensor 4: Temperatura medida: 15.00
+[Thu Oct  3 22:14:17 2024] Sensor 0: Temperatura medida: 21.00
+[Thu Oct  3 22:14:17 2024] Sensor 2: Temperatura medida: 19.00
+[Thu Oct  3 22:14:17 2024] Sensor 3: Temperatura medida: 27.00
+[Thu Oct  3 22:14:17 2024] Sensor 1: Temperatura medida: 39.00
+[Thu Oct  3 22:14:17 2024] Sensor 4: Temperatura medida: 47.00
+[Thu Oct  3 22:14:18 2024] Sensor 0: Temperatura medida: 78.00
+[Thu Oct  3 22:14:18 2024] Sensor 2: Temperatura medida: 81.00
+[Thu Oct  3 22:14:18 2024] Sensor 4: Temperatura medida: 57.00
+[Thu Oct  3 22:14:18 2024] Sensor 3: Temperatura medida: 25.00
+[Thu Oct  3 22:14:18 2024] Sensor 1: Temperatura medida: 6.00
+[Thu Oct  3 22:14:19 2024] Sensor 2: Temperatura medida: 88.00
+[Thu Oct  3 22:14:19 2024] Sensor 3: Temperatura medida: 23.00
+[Thu Oct  3 22:14:19 2024] Sensor 4: Temperatura medida: 5.00
+[Thu Oct  3 22:14:19 2024] Sensor 0: Temperatura medida: 6.00
+[Thu Oct  3 22:14:19 2024] Sensor 1: Temperatura medida: 31.00
+[Thu Oct  3 22:14:20 2024] ALERTA: Sensor 2 detectou temperatura alta 88.00
+[Thu Oct  3 22:14:20 2024] Sensor 0: Temperatura medida: 75.00
+[Thu Oct  3 22:14:20 2024] Sensor 4: Temperatura medida: 81.00
+[Thu Oct  3 22:14:20 2024] Sensor 3: Temperatura medida: 86.00
+[Thu Oct  3 22:14:20 2024] Sensor 2: Temperatura medida: 6.00
+[Thu Oct  3 22:14:20 2024] Sensor 1: Temperatura medida: 97.00
+[Thu Oct  3 22:14:21 2024] Sensor 0: Temperatura medida: 47.00
+[Thu Oct  3 22:14:21 2024] Sensor 2: Temperatura medida: 85.00
+[Thu Oct  3 22:14:21 2024] Sensor 3: Temperatura medida: 37.00
+[Thu Oct  3 22:14:21 2024] Sensor 1: Temperatura medida: 6.00
+[Thu Oct  3 22:14:21 2024] Sensor 4: Temperatura medida: 48.00
+[Thu Oct  3 22:14:22 2024] ALERTA: Sensor 2 detectou temperatura alta 85.00
+[Thu Oct  3 22:14:22 2024] Sensor 2: Temperatura medida: 13.00
+[Thu Oct  3 22:14:22 2024] Sensor 4: Temperatura medida: 83.00
+[Thu Oct  3 22:14:22 2024] Sensor 3: Temperatura medida: 43.00
+[Thu Oct  3 22:14:22 2024] Sensor 1: Temperatura medida: 0.00
+[Thu Oct  3 22:14:22 2024] Sensor 0: Temperatura medida: 84.00
+[Thu Oct  3 22:14:23 2024] Sensor 2: Temperatura medida: 22.00
+[Thu Oct  3 22:14:23 2024] Sensor 4: Temperatura medida: 59.00
+[Thu Oct  3 22:14:23 2024] Sensor 3: Temperatura medida: 54.00
+[Thu Oct  3 22:14:23 2024] Sensor 1: Temperatura medida: 38.00
+[Thu Oct  3 22:14:23 2024] Sensor 0: Temperatura medida: 61.00
+[Thu Oct  3 22:14:24 2024] Sensor 4: Temperatura medida: 1.00
+[Thu Oct  3 22:14:24 2024] Sensor 0: Temperatura medida: 26.00
+[Thu Oct  3 22:14:24 2024] Sensor 2: Temperatura medida: 42.00
+[Thu Oct  3 22:14:24 2024] Sensor 1: Temperatura medida: 23.00
+[Thu Oct  3 22:14:24 2024] Sensor 3: Temperatura medida: 16.00
+[Thu Oct  3 22:55:44 2024] Sensor 1: Temperatura medida: 37.00
+[Thu Oct  3 22:55:44 2024] Sensor 2: Temperatura medida: 19.00
+[Thu Oct  3 22:55:44 2024] Sensor 0: Temperatura medida: 32.00
+[Thu Oct  3 22:55:44 2024] Sensor 4: Temperatura medida: 73.00
+[Thu Oct  3 22:55:44 2024] Sensor 3: Temperatura medida: 40.00
+[Thu Oct  3 22:55:45 2024] Sensor 2: Temperatura medida: 38.00
+[Thu Oct  3 22:55:45 2024] Sensor 1: Temperatura medida: 57.00
+[Thu Oct  3 22:55:45 2024] Sensor 4: Temperatura medida: 45.00
+[Thu Oct  3 22:55:45 2024] Sensor 3: Temperatura medida: 7.00
+[Thu Oct  3 22:55:45 2024] Sensor 0: Temperatura medida: 34.00
+[Thu Oct  3 22:55:46 2024] Sensor 2: Temperatura medida: 22.00
+[Thu Oct  3 22:55:46 2024] Sensor 3: Temperatura medida: 18.00
+[Thu Oct  3 22:55:46 2024] Sensor 0: Temperatura medida: 53.00
+[Thu Oct  3 22:55:46 2024] Sensor 4: Temperatura medida: 92.00
+[Thu Oct  3 22:55:46 2024] Sensor 1: Temperatura medida: 11.00
+[Thu Oct  3 22:55:47 2024] Sensor 2: Temperatura medida: 38.00
+[Thu Oct  3 22:55:47 2024] Sensor 3: Temperatura medida: 49.00
+[Thu Oct  3 22:55:47 2024] Sensor 0: Temperatura medida: 21.00
+[Thu Oct  3 22:55:47 2024] Sensor 4: Temperatura medida: 85.00
+[Thu Oct  3 22:55:47 2024] Sensor 1: Temperatura medida: 45.00
+[Thu Oct  3 22:55:48 2024] ALERTA: Sensor 4 detectou temperatura alta 85.00
+[Thu Oct  3 22:55:48 2024] Sensor 2: Temperatura medida: 8.00
+[Thu Oct  3 22:55:48 2024] Sensor 3: Temperatura medida: 94.00
+[Thu Oct  3 22:55:48 2024] Sensor 0: Temperatura medida: 0.00
+[Thu Oct  3 22:55:48 2024] Sensor 4: Temperatura medida: 45.00
+[Thu Oct  3 22:55:48 2024] Sensor 1: Temperatura medida: 86.00
+[Thu Oct  3 22:55:49 2024] Sensor 0: Temperatura medida: 20.00
+[Thu Oct  3 22:55:49 2024] Sensor 3: Temperatura medida: 39.00
+[Thu Oct  3 22:55:49 2024] Sensor 2: Temperatura medida: 35.00
+[Thu Oct  3 22:55:49 2024] Sensor 4: Temperatura medida: 89.00
+[Thu Oct  3 22:55:49 2024] Sensor 1: Temperatura medida: 77.00
+[Thu Oct  3 22:55:50 2024] ALERTA: Sensor 1 detectou temperatura alta 77.00
+[Thu Oct  3 22:55:50 2024] ALERTA: Sensor 4 detectou temperatura alta 89.00
+[Thu Oct  3 22:55:50 2024] Sensor 2: Temperatura medida: 50.00
+[Thu Oct  3 22:55:50 2024] Sensor 3: Temperatura medida: 74.00
+[Thu Oct  3 22:55:50 2024] Sensor 0: Temperatura medida: 14.00
+[Thu Oct  3 22:55:50 2024] Sensor 4: Temperatura medida: 69.00
+[Thu Oct  3 22:55:50 2024] Sensor 1: Temperatura medida: 66.00
+[Thu Oct  3 22:55:51 2024] Sensor 3: Temperatura medida: 59.00
+[Thu Oct  3 22:55:51 2024] Sensor 2: Temperatura medida: 39.00
+[Thu Oct  3 22:55:51 2024] Sensor 0: Temperatura medida: 24.00
+[Thu Oct  3 22:55:51 2024] Sensor 4: Temperatura medida: 36.00
+[Thu Oct  3 22:55:51 2024] Sensor 1: Temperatura medida: 67.00
+[Thu Oct  3 22:55:52 2024] Sensor 2: Temperatura medida: 10.00
+[Thu Oct  3 22:55:52 2024] Sensor 3: Temperatura medida: 59.00
+[Thu Oct  3 22:55:52 2024] Sensor 0: Temperatura medida: 85.00
+[Thu Oct  3 22:55:52 2024] Sensor 4: Temperatura medida: 16.00
+[Thu Oct  3 22:55:52 2024] Sensor 1: Temperatura medida: 51.00
+[Thu Oct  3 22:55:53 2024] Sensor 3: Temperatura medida: 49.00
+[Thu Oct  3 22:55:53 2024] Sensor 2: Temperatura medida: 54.00
+[Thu Oct  3 22:55:53 2024] Sensor 0: Temperatura medida: 52.00
+[Thu Oct  3 22:55:53 2024] Sensor 4: Temperatura medida: 70.00
+[Thu Oct  3 22:55:53 2024] Sensor 1: Temperatura medida: 91.00
+[Thu Oct  3 22:55:54 2024] ALERTA: Sensor 1 detectou temperatura alta 91.00
+[Thu Oct  3 22:55:54 2024] Sensor 3: Temperatura medida: 49.00
+[Thu Oct  3 22:55:54 2024] Sensor 2: Temperatura medida: 30.00
+[Thu Oct  3 22:55:54 2024] Sensor 0: Temperatura medida: 37.00
+[Thu Oct  3 22:55:54 2024] Sensor 4: Temperatura medida: 50.00
+[Thu Oct  3 22:55:54 2024] Sensor 1: Temperatura medida: 76.00
+[Thu Oct  3 22:57:55 2024] Sensor 0: Temperatura medida: 4.00
+[Thu Oct  3 22:57:55 2024] Sensor 2: Temperatura medida: 92.00
+[Thu Oct  3 22:57:55 2024] Sensor 1: Temperatura medida: 79.00
+[Thu Oct  3 22:57:55 2024] Sensor 3: Temperatura medida: 77.00
+[Thu Oct  3 22:57:55 2024] Sensor 4: Temperatura medida: 26.00
+[Thu Oct  3 22:57:55 2024] ALERTA: Sensor 1 detectou temperatura alta 79.00
+[Thu Oct  3 22:57:55 2024] ALERTA: Sensor 2 detectou temperatura alta 92.00
+[Thu Oct  3 22:57:55 2024] ALERTA: Sensor 3 detectou temperatura alta 77.00
+[Thu Oct  3 22:57:56 2024] Sensor 0: Temperatura medida: 83.00
+[Thu Oct  3 22:57:56 2024] Sensor 2: Temperatura medida: 24.00
+[Thu Oct  3 22:57:56 2024] Sensor 1: Temperatura medida: 88.00
+[Thu Oct  3 22:57:56 2024] Sensor 3: Temperatura medida: 45.00
+[Thu Oct  3 22:57:56 2024] Sensor 4: Temperatura medida: 51.00
+[Thu Oct  3 22:57:57 2024] Sensor 0: Temperatura medida: 56.00
+[Thu Oct  3 22:57:57 2024] Sensor 2: Temperatura medida: 44.00
+[Thu Oct  3 22:57:57 2024] Sensor 1: Temperatura medida: 1.00
+[Thu Oct  3 22:57:57 2024] Sensor 3: Temperatura medida: 78.00
+[Thu Oct  3 22:57:57 2024] Sensor 4: Temperatura medida: 2.00
+[Thu Oct  3 22:57:58 2024] Sensor 0: Temperatura medida: 6.00
+[Thu Oct  3 22:57:58 2024] Sensor 1: Temperatura medida: 52.00
+[Thu Oct  3 22:57:58 2024] Sensor 2: Temperatura medida: 87.00
+[Thu Oct  3 22:57:58 2024] Sensor 3: Temperatura medida: 37.00
+[Thu Oct  3 22:57:58 2024] Sensor 4: Temperatura medida: 87.00
+[Thu Oct  3 22:57:59 2024] Sensor 1: Temperatura medida: 5.00
+[Thu Oct  3 22:57:59 2024] Sensor 0: Temperatura medida: 82.00
+[Thu Oct  3 22:57:59 2024] Sensor 2: Temperatura medida: 84.00
+[Thu Oct  3 22:57:59 2024] ALERTA: Sensor 0 detectou temperatura alta 82.00
+[Thu Oct  3 22:57:59 2024] ALERTA: Sensor 2 detectou temperatura alta 84.00
+[Thu Oct  3 22:57:59 2024] ALERTA: Sensor 4 detectou temperatura alta 87.00
+[Thu Oct  3 22:57:59 2024] Sensor 4: Temperatura medida: 72.00
+[Thu Oct  3 22:57:59 2024] Sensor 3: Temperatura medida: 49.00
+[Thu Oct  3 22:58:00 2024] Sensor 1: Temperatura medida: 85.00
+[Thu Oct  3 22:58:00 2024] Sensor 0: Temperatura medida: 48.00
+[Thu Oct  3 22:58:00 2024] Sensor 2: Temperatura medida: 53.00
+[Thu Oct  3 22:58:00 2024] Sensor 4: Temperatura medida: 67.00
+[Thu Oct  3 22:58:00 2024] Sensor 3: Temperatura medida: 64.00
+[Thu Oct  3 22:58:01 2024] Sensor 1: Temperatura medida: 70.00
+[Thu Oct  3 22:58:01 2024] Sensor 0: Temperatura medida: 72.00
+[Thu Oct  3 22:58:01 2024] Sensor 2: Temperatura medida: 44.00
+[Thu Oct  3 22:58:01 2024] Sensor 4: Temperatura medida: 63.00
+[Thu Oct  3 22:58:01 2024] Sensor 3: Temperatura medida: 49.00
+[Thu Oct  3 22:58:02 2024] Sensor 1: Temperatura medida: 22.00
+[Thu Oct  3 22:58:02 2024] Sensor 2: Temperatura medida: 46.00
+[Thu Oct  3 22:58:02 2024] Sensor 0: Temperatura medida: 89.00
+[Thu Oct  3 22:58:02 2024] Sensor 4: Temperatura medida: 46.00
+[Thu Oct  3 22:58:02 2024] Sensor 3: Temperatura medida: 43.00
+[Thu Oct  3 22:58:03 2024] ALERTA: Sensor 0 detectou temperatura alta 89.00
+[Thu Oct  3 22:58:03 2024] Sensor 1: Temperatura medida: 93.00
+[Thu Oct  3 22:58:03 2024] Sensor 2: Temperatura medida: 54.00
+[Thu Oct  3 22:58:03 2024] Sensor 0: Temperatura medida: 40.00
+[Thu Oct  3 22:58:03 2024] Sensor 4: Temperatura medida: 46.00
+[Thu Oct  3 22:58:03 2024] Sensor 3: Temperatura medida: 32.00
+[Thu Oct  3 22:58:04 2024] Sensor 1: Temperatura medida: 52.00
+[Thu Oct  3 22:58:04 2024] Sensor 0: Temperatura medida: 36.00
+[Thu Oct  3 22:58:04 2024] Sensor 2: Temperatura medida: 42.00
+[Thu Oct  3 22:58:04 2024] Sensor 4: Temperatura medida: 81.00
+[Thu Oct  3 22:58:04 2024] Sensor 3: Temperatura medida: 41.00
+[Thu Oct  3 22:58:05 2024] ALERTA: Sensor 4 detectou temperatura alta 81.00
+[Thu Oct  3 22:58:05 2024] Sensor 3: Temperatura medida: 60.00
+[Thu Oct  3 22:58:05 2024] Sensor 0: Temperatura medida: 24.00
+[Thu Oct  3 22:58:05 2024] Sensor 4: Temperatura medida: 59.00
+[Thu Oct  3 22:58:05 2024] Sensor 1: Temperatura medida: 87.00
+[Thu Oct  3 22:58:05 2024] Sensor 2: Temperatura medida: 23.00
+[Thu Oct  3 22:58:06 2024] Sensor 0: Temperatura medida: 25.00
+[Thu Oct  3 22:58:06 2024] Sensor 3: Temperatura medida: 73.00
+[Thu Oct  3 22:58:06 2024] Sensor 4: Temperatura medida: 12.00
+[Thu Oct  3 22:58:06 2024] Sensor 1: Temperatura medida: 97.00
+[Thu Oct  3 22:58:06 2024] Sensor 2: Temperatura medida: 64.00
+[Thu Oct  3 22:58:30 2024] Sensor 1: Temperatura medida: 93.00 
+
+[Thu Oct  3 22:58:30 2024] Sensor 0: Temperatura medida: 29.00 
+
+[Thu Oct  3 22:58:30 2024] Sensor 3: Temperatura medida: 46.00 
+
+[Thu Oct  3 22:58:30 2024] Sensor 2: Temperatura medida: 17.00 
+
+[Thu Oct  3 22:58:30 2024] ALERTA: Sensor 1 detectou temperatura alta 93.00
+[Thu Oct  3 22:58:30 2024] Sensor 4: Temperatura medida: 66.00 
+
+[Thu Oct  3 22:58:31 2024] Sensor 3: Temperatura medida: 11.00 
+
+[Thu Oct  3 22:58:31 2024] Sensor 2: Temperatura medida: 31.00 
+
+[Thu Oct  3 22:58:31 2024] Sensor 0: Temperatura medida: 55.00 
+
+[Thu Oct  3 22:58:31 2024] Sensor 4: Temperatura medida: 44.00 
+
+[Thu Oct  3 22:58:31 2024] Sensor 1: Temperatura medida: 81.00 
+
+[Thu Oct  3 22:58:32 2024] ALERTA: Sensor 1 detectou temperatura alta 81.00
+[Thu Oct  3 22:58:32 2024] Sensor 2: Temperatura medida: 43.00 
+
+[Thu Oct  3 22:58:32 2024] Sensor 1: Temperatura medida: 43.00 
+
+[Thu Oct  3 22:58:32 2024] Sensor 3: Temperatura medida: 60.00 
+
+[Thu Oct  3 22:58:32 2024] Sensor 4: Temperatura medida: 35.00 
+
+[Thu Oct  3 22:58:32 2024] Sensor 0: Temperatura medida: 24.00 
+
+[Thu Oct  3 22:58:33 2024] Sensor 2: Temperatura medida: 87.00 
+
+[Thu Oct  3 22:58:33 2024] Sensor 1: Temperatura medida: 2.00 
+
+[Thu Oct  3 22:58:33 2024] Sensor 4: Temperatura medida: 34.00 
+
+[Thu Oct  3 22:58:33 2024] Sensor 3: Temperatura medida: 85.00 
+
+[Thu Oct  3 22:58:33 2024] Sensor 0: Temperatura medida: 32.00 
+
+[Thu Oct  3 22:58:34 2024] ALERTA: Sensor 2 detectou temperatura alta 87.00
+[Thu Oct  3 22:58:34 2024] ALERTA: Sensor 3 detectou temperatura alta 85.00
+[Thu Oct  3 22:58:34 2024] Sensor 2: Temperatura medida: 12.00 
+
+[Thu Oct  3 22:58:34 2024] Sensor 4: Temperatura medida: 34.00 
+
+[Thu Oct  3 22:58:34 2024] Sensor 1: Temperatura medida: 88.00 
+
+[Thu Oct  3 22:58:34 2024] Sensor 3: Temperatura medida: 53.00 
+
+[Thu Oct  3 22:58:34 2024] Sensor 0: Temperatura medida: 93.00 
+
+[Thu Oct  3 22:58:35 2024] Sensor 2: Temperatura medida: 63.00 
+
+[Thu Oct  3 22:58:35 2024] Sensor 1: Temperatura medida: 6.00 
+
+[Thu Oct  3 22:58:35 2024] Sensor 3: Temperatura medida: 65.00 
+
+[Thu Oct  3 22:58:35 2024] Sensor 4: Temperatura medida: 57.00 
+
+[Thu Oct  3 22:58:35 2024] Sensor 0: Temperatura medida: 27.00 
+
+[Thu Oct  3 22:58:36 2024] Sensor 2: Temperatura medida: 43.00 
+
+[Thu Oct  3 22:58:36 2024] Sensor 1: Temperatura medida: 2.00 
+
+[Thu Oct  3 22:58:36 2024] Sensor 3: Temperatura medida: 9.00 
+
+[Thu Oct  3 22:58:36 2024] Sensor 4: Temperatura medida: 61.00 
+
+[Thu Oct  3 22:58:36 2024] Sensor 0: Temperatura medida: 48.00 
+
+[Thu Oct  3 22:58:37 2024] Sensor 2: Temperatura medida: 75.00 
+
+[Thu Oct  3 22:58:37 2024] Sensor 3: Temperatura medida: 24.00 
+
+[Thu Oct  3 22:58:37 2024] Sensor 4: Temperatura medida: 80.00 
+
+[Thu Oct  3 22:58:37 2024] Sensor 0: Temperatura medida: 20.00 
+
+[Thu Oct  3 22:58:37 2024] Sensor 1: Temperatura medida: 30.00 
+
+[Thu Oct  3 22:58:38 2024] ALERTA: Sensor 4 detectou temperatura alta 80.00
+[Thu Oct  3 22:58:38 2024] Sensor 2: Temperatura medida: 13.00 
+
+[Thu Oct  3 22:58:38 2024] Sensor 4: Temperatura medida: 32.00 
+
+[Thu Oct  3 22:58:38 2024] Sensor 3: Temperatura medida: 25.00 
+
+[Thu Oct  3 22:58:38 2024] Sensor 0: Temperatura medida: 48.00 
+
+[Thu Oct  3 22:58:38 2024] Sensor 1: Temperatura medida: 1.00 
+
+[Thu Oct  3 22:58:39 2024] Sensor 2: Temperatura medida: 76.00 
+
+[Thu Oct  3 22:58:39 2024] Sensor 1: Temperatura medida: 3.00 
+
+[Thu Oct  3 22:58:39 2024] Sensor 4: Temperatura medida: 87.00 
+
+[Thu Oct  3 22:58:39 2024] Sensor 3: Temperatura medida: 62.00 
+
+[Thu Oct  3 22:58:39 2024] Sensor 0: Temperatura medida: 73.00 
+
+[Thu Oct  3 22:58:40 2024] ALERTA: Sensor 2 detectou temperatura alta 76.00
+[Thu Oct  3 22:58:40 2024] ALERTA: Sensor 4 detectou temperatura alta 87.00
+[Thu Oct  3 22:58:40 2024] Sensor 4: Temperatura medida: 87.00 
+
+[Thu Oct  3 22:58:40 2024] Sensor 2: Temperatura medida: 26.00 
+
+[Thu Oct  3 22:58:40 2024] Sensor 3: Temperatura medida: 13.00 
+
+[Thu Oct  3 22:58:40 2024] Sensor 1: Temperatura medida: 40.00 
+
+[Thu Oct  3 22:58:40 2024] Sensor 0: Temperatura medida: 60.00 
+
+[Thu Oct  3 22:58:41 2024] Sensor 4: Temperatura medida: 58.00 
+
+[Thu Oct  3 22:58:41 2024] Sensor 3: Temperatura medida: 18.00 
+
+[Thu Oct  3 22:58:41 2024] Sensor 2: Temperatura medida: 3.00 
+
+[Thu Oct  3 22:58:41 2024] Sensor 1: Temperatura medida: 24.00 
+
+[Thu Oct  3 22:58:41 2024] Sensor 0: Temperatura medida: 61.00 
+
+[Thu Oct  3 22:58:42 2024] Sensor 4: Temperatura medida: 46.00 
+
+[Thu Oct  3 22:58:42 2024] Sensor 3: Temperatura medida: 19.00 
+
+[Thu Oct  3 22:58:42 2024] Sensor 1: Temperatura medida: 63.00 
+
+[Thu Oct  3 22:58:42 2024] Sensor 2: Temperatura medida: 55.00 
+
+[Thu Oct  3 22:58:42 2024] Sensor 0: Temperatura medida: 32.00 
+
+[Thu Oct  3 22:58:43 2024] Sensor 4: Temperatura medida: 64.00 
+
+[Thu Oct  3 22:58:43 2024] Sensor 3: Temperatura medida: 82.00 
+
+[Thu Oct  3 22:58:43 2024] Sensor 1: Temperatura medida: 56.00 
+
+[Thu Oct  3 22:58:43 2024] Sensor 2: Temperatura medida: 96.00 
+
+[Thu Oct  3 22:58:43 2024] Sensor 0: Temperatura medida: 64.00 
+
+[Thu Oct  3 22:58:44 2024] ALERTA: Sensor 2 detectou temperatura alta 96.00
+[Thu Oct  3 22:58:44 2024] ALERTA: Sensor 3 detectou temperatura alta 82.00
+[Thu Oct  3 22:58:44 2024] Sensor 3: Temperatura medida: 29.00 
+
+[Thu Oct  3 22:58:44 2024] Sensor 4: Temperatura medida: 9.00 
+
+[Thu Oct  3 22:58:44 2024] Sensor 2: Temperatura medida: 90.00 
+
+[Thu Oct  3 22:58:44 2024] Sensor 1: Temperatura medida: 13.00 
+
+[Thu Oct  3 22:58:44 2024] Sensor 0: Temperatura medida: 57.00 
+
+[Thu Oct  3 22:58:45 2024] Sensor 3: Temperatura medida: 43.00 
+
+[Thu Oct  3 22:58:45 2024] Sensor 4: Temperatura medida: 89.00 
+
+[Thu Oct  3 22:58:45 2024] Sensor 1: Temperatura medida: 97.00 
+
+[Thu Oct  3 22:58:45 2024] Sensor 2: Temperatura medida: 47.00 
+
+[Thu Oct  3 22:58:45 2024] Sensor 0: Temperatura medida: 3.00 
+
+[Thu Oct  3 22:58:46 2024] ALERTA: Sensor 1 detectou temperatura alta 97.00
+[Thu Oct  3 22:58:46 2024] ALERTA: Sensor 4 detectou temperatura alta 89.00
+[Thu Oct  3 22:58:46 2024] Sensor 1: Temperatura medida: 70.00 
+
+[Thu Oct  3 22:58:46 2024] Sensor 4: Temperatura medida: 27.00 
+
+[Thu Oct  3 22:58:46 2024] Sensor 3: Temperatura medida: 86.00 
+
+[Thu Oct  3 22:58:46 2024] Sensor 2: Temperatura medida: 29.00 
+
+[Thu Oct  3 22:58:46 2024] Sensor 0: Temperatura medida: 35.00 
+
+[Thu Oct  3 22:58:47 2024] Sensor 4: Temperatura medida: 42.00 
+
+[Thu Oct  3 22:58:47 2024] Sensor 3: Temperatura medida: 94.00 
+
+[Thu Oct  3 22:58:47 2024] Sensor 2: Temperatura medida: 30.00 
+
+[Thu Oct  3 22:58:47 2024] Sensor 1: Temperatura medida: 60.00 
+
+[Thu Oct  3 22:58:47 2024] Sensor 0: Temperatura medida: 70.00 
+
+[Thu Oct  3 22:58:48 2024] ALERTA: Sensor 3 detectou temperatura alta 94.00
+[Thu Oct  3 22:58:48 2024] Sensor 4: Temperatura medida: 43.00 
+
+[Thu Oct  3 22:58:48 2024] Sensor 3: Temperatura medida: 58.00 
+
+[Thu Oct  3 22:58:48 2024] Sensor 2: Temperatura medida: 89.00 
+
+[Thu Oct  3 22:58:48 2024] Sensor 1: Temperatura medida: 59.00 
+
+[Thu Oct  3 22:58:48 2024] Sensor 0: Temperatura medida: 13.00 
+
+[Thu Oct  3 22:58:49 2024] Sensor 3: Temperatura medida: 74.00 
+
+[Thu Oct  3 22:58:49 2024] Sensor 0: Temperatura medida: 71.00 
+
+[Thu Oct  3 22:58:49 2024] Sensor 4: Temperatura medida: 75.00 
+
+[Thu Oct  3 22:58:49 2024] Sensor 1: Temperatura medida: 47.00 
+
+[Thu Oct  3 22:58:49 2024] Sensor 2: Temperatura medida: 82.00 
+
+[Thu Oct  3 22:58:50 2024] ALERTA: Sensor 2 detectou temperatura alta 82.00
+[Thu Oct  3 22:58:50 2024] Sensor 0: Temperatura medida: 12.00 
+
+[Thu Oct  3 22:58:50 2024] Sensor 4: Temperatura medida: 11.00 
+
+[Thu Oct  3 22:58:50 2024] Sensor 1: Temperatura medida: 80.00 
+
+[Thu Oct  3 22:58:50 2024] Sensor 3: Temperatura medida: 54.00 
+
+[Thu Oct  3 22:58:50 2024] Sensor 2: Temperatura medida: 25.00 
+
+[Thu Oct  3 22:58:51 2024] Sensor 4: Temperatura medida: 89.00 
+
+[Thu Oct  3 22:58:51 2024] Sensor 0: Temperatura medida: 97.00 
+
+[Thu Oct  3 22:58:51 2024] Sensor 3: Temperatura medida: 66.00 
+
+[Thu Oct  3 22:58:51 2024] Sensor 2: Temperatura medida: 38.00 
+
+[Thu Oct  3 22:58:51 2024] Sensor 1: Temperatura medida: 96.00 
+
+[Thu Oct  3 22:58:52 2024] ALERTA: Sensor 0 detectou temperatura alta 97.00
+[Thu Oct  3 22:58:52 2024] ALERTA: Sensor 1 detectou temperatura alta 96.00
+[Thu Oct  3 22:58:52 2024] ALERTA: Sensor 4 detectou temperatura alta 89.00
+[Thu Oct  3 22:58:52 2024] Sensor 0: Temperatura medida: 22.00 
+
+[Thu Oct  3 22:58:52 2024] Sensor 4: Temperatura medida: 60.00 
+
+[Thu Oct  3 22:58:52 2024] Sensor 3: Temperatura medida: 83.00 
+
+[Thu Oct  3 22:58:52 2024] Sensor 2: Temperatura medida: 3.00 
+
+[Thu Oct  3 22:58:52 2024] Sensor 1: Temperatura medida: 96.00 
+
+[Thu Oct  3 22:58:53 2024] Sensor 0: Temperatura medida: 10.00 
+
+[Thu Oct  3 22:58:53 2024] Sensor 4: Temperatura medida: 45.00 
+
+[Thu Oct  3 22:58:53 2024] Sensor 3: Temperatura medida: 90.00 
+
+[Thu Oct  3 22:58:53 2024] Sensor 2: Temperatura medida: 92.00 
+
+[Thu Oct  3 22:58:53 2024] Sensor 1: Temperatura medida: 58.00 
+
+[Thu Oct  3 22:58:54 2024] ALERTA: Sensor 2 detectou temperatura alta 92.00
+[Thu Oct  3 22:58:54 2024] ALERTA: Sensor 3 detectou temperatura alta 90.00
+[Thu Oct  3 22:58:54 2024] Sensor 0: Temperatura medida: 12.00 
+
+[Thu Oct  3 22:58:54 2024] Sensor 1: Temperatura medida: 99.00 
+
+[Thu Oct  3 22:58:54 2024] Sensor 3: Temperatura medida: 53.00 
+
+[Thu Oct  3 22:58:54 2024] Sensor 2: Temperatura medida: 88.00 
+
+[Thu Oct  3 22:58:54 2024] Sensor 4: Temperatura medida: 16.00 
+
+[Thu Oct  3 22:58:55 2024] Sensor 2: Temperatura medida: 82.00 
+
+[Thu Oct  3 22:58:55 2024] Sensor 3: Temperatura medida: 10.00 
+
+[Thu Oct  3 22:58:55 2024] Sensor 0: Temperatura medida: 27.00 
+
+[Thu Oct  3 22:58:55 2024] Sensor 1: Temperatura medida: 74.00 
+
+[Thu Oct  3 22:58:55 2024] Sensor 4: Temperatura medida: 29.00 
+
+[Thu Oct  3 22:59:00 2024] Sensor 0: Temperatura medida: 72.00 
+
+[Thu Oct  3 22:59:00 2024] Sensor 1: Temperatura medida: 18.00 
+
+[Thu Oct  3 22:59:00 2024] Sensor 2: Temperatura medida: 58.00 
+
+[Thu Oct  3 22:59:00 2024] Sensor 3: Temperatura medida: 18.00 
+
+[Thu Oct  3 22:59:00 2024] Sensor 4: Temperatura medida: 57.00 
+
+[Thu Oct  3 22:59:01 2024] Sensor 0: Temperatura medida: 63.00 
+
+[Thu Oct  3 22:59:01 2024] Sensor 1: Temperatura medida: 62.00 
+
+[Thu Oct  3 22:59:01 2024] Sensor 2: Temperatura medida: 82.00 
+
+[Thu Oct  3 22:59:01 2024] Sensor 3: Temperatura medida: 34.00 
+
+[Thu Oct  3 22:59:01 2024] Sensor 4: Temperatura medida: 48.00 
+
+[Thu Oct  3 22:59:02 2024] Sensor 0: Temperatura medida: 86.00 
+
+[Thu Oct  3 22:59:02 2024] Sensor 3: Temperatura medida: 20.00 
+
+[Thu Oct  3 22:59:02 2024] Sensor 1: Temperatura medida: 40.00 
+
+[Thu Oct  3 22:59:02 2024] Sensor 4: Temperatura medida: 9.00 
+
+[Thu Oct  3 22:59:02 2024] Sensor 2: Temperatura medida: 74.00 
+
+[Thu Oct  3 22:59:02 2024] ALERTA: Sensor 0 detectou temperatura alta 86.00
+[Thu Oct  3 22:59:03 2024] Sensor 0: Temperatura medida: 57.00 
+
+[Thu Oct  3 22:59:03 2024] Sensor 3: Temperatura medida: 83.00 
+
+[Thu Oct  3 22:59:03 2024] Sensor 4: Temperatura medida: 31.00 
+
+[Thu Oct  3 22:59:03 2024] Sensor 2: Temperatura medida: 42.00 
+
+[Thu Oct  3 22:59:03 2024] Sensor 1: Temperatura medida: 59.00 
+
+[Thu Oct  3 22:59:04 2024] ALERTA: Sensor 3 detectou temperatura alta 83.00
+[Thu Oct  3 22:59:04 2024] Sensor 0: Temperatura medida: 32.00 
+
+[Thu Oct  3 22:59:04 2024] Sensor 4: Temperatura medida: 96.00 
+
+[Thu Oct  3 22:59:04 2024] ALERTA: Sensor 4 detectou temperatura alta 96.00
+[Thu Oct  3 22:59:04 2024] Sensor 3: Temperatura medida: 90.00 
+
+[Thu Oct  3 22:59:04 2024] Sensor 2: Temperatura medida: 37.00 
+
+[Thu Oct  3 22:59:04 2024] Sensor 1: Temperatura medida: 27.00 
+
+[Thu Oct  3 22:59:05 2024] Sensor 0: Temperatura medida: 77.00 
+
+[Thu Oct  3 22:59:05 2024] Sensor 4: Temperatura medida: 15.00 
+
+[Thu Oct  3 22:59:05 2024] Sensor 2: Temperatura medida: 92.00 
+
+[Thu Oct  3 22:59:05 2024] Sensor 3: Temperatura medida: 74.00 
+
+[Thu Oct  3 22:59:05 2024] Sensor 1: Temperatura medida: 15.00 
+
+[Thu Oct  3 22:59:06 2024] ALERTA: Sensor 0 detectou temperatura alta 77.00
+[Thu Oct  3 22:59:06 2024] ALERTA: Sensor 2 detectou temperatura alta 92.00
+[Thu Oct  3 22:59:06 2024] Sensor 4: Temperatura medida: 78.00 
+
+[Thu Oct  3 22:59:06 2024] Sensor 1: Temperatura medida: 87.00 
+
+[Thu Oct  3 22:59:06 2024] Sensor 3: Temperatura medida: 89.00 
+
+[Thu Oct  3 22:59:06 2024] Sensor 0: Temperatura medida: 92.00 
+
+[Thu Oct  3 22:59:06 2024] Sensor 2: Temperatura medida: 57.00 
+
+[Thu Oct  3 22:59:07 2024] Sensor 4: Temperatura medida: 1.00 
+
+[Thu Oct  3 22:59:07 2024] Sensor 0: Temperatura medida: 52.00 
+
+[Thu Oct  3 22:59:07 2024] Sensor 1: Temperatura medida: 20.00 
+
+[Thu Oct  3 22:59:07 2024] Sensor 2: Temperatura medida: 83.00 
+
+[Thu Oct  3 22:59:07 2024] Sensor 3: Temperatura medida: 38.00 
+
+[Thu Oct  3 22:59:55 2024] Sensor 0: Temperatura medida: 3.00 
+
+[Thu Oct  3 22:59:55 2024] Sensor 1: Temperatura medida: 82.00 
+
+[Thu Oct  3 22:59:55 2024] Sensor 2: Temperatura medida: 6.00 
+
+[Thu Oct  3 22:59:55 2024] Sensor 3: Temperatura medida: 56.00 
+
+[Thu Oct  3 22:59:55 2024] ALERTA: Sensor 1 detectou temperatura alta 82.00 
+
+[Thu Oct  3 22:59:55 2024] Sensor 4: Temperatura medida: 63.00 
+
+[Thu Oct  3 22:59:56 2024] Sensor 2: Temperatura medida: 79.00 
+
+[Thu Oct  3 22:59:56 2024] Sensor 0: Temperatura medida: 56.00 
+
+[Thu Oct  3 22:59:56 2024] Sensor 3: Temperatura medida: 28.00 
+
+[Thu Oct  3 22:59:56 2024] Sensor 4: Temperatura medida: 41.00 
+
+[Thu Oct  3 22:59:56 2024] Sensor 1: Temperatura medida: 38.00 
+
+[Thu Oct  3 22:59:57 2024] ALERTA: Sensor 2 detectou temperatura alta 79.00 
+
+[Thu Oct  3 22:59:57 2024] Sensor 3: Temperatura medida: 62.00 
+
+[Thu Oct  3 22:59:57 2024] Sensor 0: Temperatura medida: 84.00 
+
+[Thu Oct  3 22:59:57 2024] Sensor 1: Temperatura medida: 37.00 
+
+[Thu Oct  3 22:59:57 2024] Sensor 4: Temperatura medida: 11.00 
+
+[Thu Oct  3 22:59:57 2024] Sensor 2: Temperatura medida: 6.00 
+
+[Thu Oct  3 22:59:58 2024] Sensor 3: Temperatura medida: 64.00 
+
+[Thu Oct  3 22:59:58 2024] Sensor 0: Temperatura medida: 2.00 
+
+[Thu Oct  3 22:59:58 2024] Sensor 1: Temperatura medida: 68.00 
+
+[Thu Oct  3 22:59:58 2024] Sensor 4: Temperatura medida: 45.00 
+
+[Thu Oct  3 22:59:58 2024] Sensor 2: Temperatura medida: 25.00 
+
+[Thu Oct  3 22:59:59 2024] Sensor 0: Temperatura medida: 41.00 
+
+[Thu Oct  3 22:59:59 2024] Sensor 2: Temperatura medida: 59.00 
+
+[Thu Oct  3 22:59:59 2024] Sensor 1: Temperatura medida: 52.00 
+
+[Thu Oct  3 22:59:59 2024] Sensor 3: Temperatura medida: 55.00 
+
+[Thu Oct  3 22:59:59 2024] Sensor 4: Temperatura medida: 15.00 
+
+[Thu Oct  3 23:00:00 2024] Sensor 0: Temperatura medida: 89.00 
+
+[Thu Oct  3 23:00:00 2024] Sensor 2: Temperatura medida: 45.00 
+
+[Thu Oct  3 23:00:00 2024] Sensor 3: Temperatura medida: 79.00 
+
+[Thu Oct  3 23:00:00 2024] Sensor 4: Temperatura medida: 83.00 
+
+[Thu Oct  3 23:00:00 2024] Sensor 1: Temperatura medida: 60.00 
+
+[Thu Oct  3 23:00:01 2024] ALERTA: Sensor 0 detectou temperatura alta 89.00 
+
+[Thu Oct  3 23:00:01 2024] ALERTA: Sensor 3 detectou temperatura alta 79.00 
+
+[Thu Oct  3 23:00:01 2024] ALERTA: Sensor 4 detectou temperatura alta 83.00 
+
+[Thu Oct  3 23:00:01 2024] Sensor 0: Temperatura medida: 44.00 
+
+[Thu Oct  3 23:00:01 2024] Sensor 2: Temperatura medida: 64.00 
+
+[Thu Oct  3 23:00:01 2024] Sensor 3: Temperatura medida: 66.00 
+
+[Thu Oct  3 23:00:01 2024] Sensor 4: Temperatura medida: 50.00 
+
+[Thu Oct  3 23:00:01 2024] Sensor 1: Temperatura medida: 72.00 
+
+[Thu Oct  3 23:00:02 2024] Sensor 0: Temperatura medida: 81.00 
+
+[Thu Oct  3 23:00:02 2024] Sensor 2: Temperatura medida: 58.00 
+
+[Thu Oct  3 23:00:02 2024] Sensor 3: Temperatura medida: 63.00 
+
+[Thu Oct  3 23:00:02 2024] Sensor 4: Temperatura medida: 12.00 
+
+[Thu Oct  3 23:00:02 2024] Sensor 1: Temperatura medida: 38.00 
+
+[Thu Oct  3 23:00:03 2024] ALERTA: Sensor 0 detectou temperatura alta 81.00 
+
+[Thu Oct  3 23:00:03 2024] Sensor 2: Temperatura medida: 56.00 
+
+[Thu Oct  3 23:00:03 2024] Sensor 3: Temperatura medida: 1.00 
+
+[Thu Oct  3 23:00:03 2024] Sensor 4: Temperatura medida: 45.00 
+
+[Thu Oct  3 23:00:03 2024] Sensor 0: Temperatura medida: 48.00 
+
+[Thu Oct  3 23:00:03 2024] Sensor 1: Temperatura medida: 59.00 
+
+[Thu Oct  3 23:00:04 2024] Sensor 2: Temperatura medida: 59.00 
+
+[Thu Oct  3 23:00:04 2024] Sensor 4: Temperatura medida: 10.00 
+
+[Thu Oct  3 23:00:04 2024] Sensor 3: Temperatura medida: 14.00 
+
+[Thu Oct  3 23:00:04 2024] Sensor 1: Temperatura medida: 27.00 
+
+[Thu Oct  3 23:00:04 2024] Sensor 0: Temperatura medida: 7.00 
+
+[Thu Oct  3 23:00:05 2024] Sensor 2: Temperatura medida: 91.00 
+
+[] Sensor 0: Temperatura medida: 20.00 
+
+[Thu Oct  3 23:00:05 2024] Sensor 4: Temperatura medida: 59.00 
+
+[Thu Oct  3 23:00:05 2024] Sensor 3: Temperatura medida: 47.00 
+
+[Thu Oct  3 23:00:05 2024] Sensor 1: Temperatura medida: 35.00 
+
+[Thu Oct  3 23:00:06 2024] Sensor 2: Temperatura medida: 36.00 
+
+[Thu Oct  3 23:00:06 2024] Sensor 3: Temperatura medida: 80.00 
+
+[Thu Oct  3 23:00:06 2024] Sensor 4: Temperatura medida: 18.00 
+
+[Thu Oct  3 23:00:06 2024] Sensor 0: Temperatura medida: 49.00 
+
+[Thu Oct  3 23:00:06 2024] Sensor 1: Temperatura medida: 96.00 
+
+[Thu Oct  3 23:00:07 2024] ALERTA: Sensor 1 detectou temperatura alta 96.00 
+
+[Thu Oct  3 23:00:07 2024] ALERTA: Sensor 3 detectou temperatura alta 80.00 
+
+[Thu Oct  3 23:00:07 2024] Sensor 3: Temperatura medida: 16.00 
+
+[Thu Oct  3 23:00:07 2024] Sensor 4: Temperatura medida: 12.00 
+
+[Thu Oct  3 23:00:07 2024] Sensor 1: Temperatura medida: 34.00 
+
+[Thu Oct  3 23:00:07 2024] Sensor 0: Temperatura medida: 47.00 
+
+[Thu Oct  3 23:00:07 2024] Sensor 2: Temperatura medida: 45.00 
+
+[Thu Oct  3 23:00:08 2024] Sensor 4: Temperatura medida: 5.00 
+
+[Thu Oct  3 23:00:08 2024] Sensor 3: Temperatura medida: 67.00 
+
+[Thu Oct  3 23:00:08 2024] Sensor 0: Temperatura medida: 0.00 
+
+[Thu Oct  3 23:00:08 2024] Sensor 2: Temperatura medida: 37.00 
+
+[Thu Oct  3 23:00:08 2024] Sensor 1: Temperatura medida: 31.00 
+
+[Thu Oct  3 23:00:09 2024] Sensor 4: Temperatura medida: 96.00 
+
+[Thu Oct  3 23:00:09 2024] Sensor 3: Temperatura medida: 56.00 
+
+[Thu Oct  3 23:00:09 2024] Sensor 1: Temperatura medida: 80.00 
+
+[Thu Oct  3 23:00:09 2024] Sensor 2: Temperatura medida: 49.00 
+
+[Thu Oct  3 23:00:09 2024] Sensor 0: Temperatura medida: 2.00 
+
+[Thu Oct  3 23:00:10 2024] Sensor 4: Temperatura medida: 91.00 
+
+[Thu Oct  3 23:00:10 2024] Sensor 3: Temperatura medida: 8.00 
+
+[Thu Oct  3 23:00:10 2024] Sensor 2: Temperatura medida: 57.00 
+
+[Thu Oct  3 23:00:10 2024] Sensor 0: Temperatura medida: 88.00 
+
+[Thu Oct  3 23:00:10 2024] Sensor 1: Temperatura medida: 64.00 
+
+[Thu Oct  3 23:00:11 2024] ALERTA: Sensor 0 detectou temperatura alta 88.00 
+
+[Thu Oct  3 23:00:11 2024] ALERTA: Sensor 4 detectou temperatura alta 91.00 
+
+[Thu Oct  3 23:00:11 2024] Sensor 4: Temperatura medida: 71.00 
+
+[Thu Oct  3 23:00:11 2024] Sensor 0: Temperatura medida: 49.00 
+
+[Thu Oct  3 23:00:11 2024] Sensor 3: Temperatura medida: 8.00 
+
+[Thu Oct  3 23:00:11 2024] Sensor 1: Temperatura medida: 30.00 
+
+[Thu Oct  3 23:00:11 2024] Sensor 2: Temperatura medida: 96.00 
+
+[Thu Oct  3 23:18:34 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:18:34 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:18:34 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:18:34 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:18:34 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:18:36 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:18:36 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:18:36 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:18:36 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:18:36 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:18:38 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:18:38 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:18:38 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:18:38 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:18:38 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:18:40 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:18:40 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:18:40 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:18:40 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:18:40 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:19:58 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:19:58 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:19:58 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:19:58 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:19:58 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:00 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:00 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:00 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:00 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:00 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:02 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:02 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:02 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:02 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:02 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:04 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:04 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:04 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:04 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:04 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:06 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:06 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:06 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:06 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:06 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:08 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:08 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:08 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:08 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:08 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:10 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:10 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:10 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:10 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:10 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:12 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:12 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:12 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:12 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:12 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:14 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:14 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:14 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:14 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:14 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:16 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:16 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:16 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:16 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:16 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:18 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:18 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:18 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:18 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:18 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:20 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:20 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:20 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:20 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:20 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:22 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:22 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:22 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:22 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:22 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:24 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:24 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:24 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:24 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:24 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:26 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:26 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:26 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:26 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:26 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:28 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:28 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:28 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:28 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:28 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:30 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:30 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:30 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:30 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:30 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:32 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:32 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:32 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:32 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:32 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:34 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:34 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:34 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:34 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:34 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:36 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:36 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:36 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:36 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:36 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:38 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:38 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:38 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:38 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:38 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:40 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:40 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:40 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:40 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:40 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:42 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:42 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:42 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:42 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:42 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:44 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:44 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:44 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:44 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:44 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:46 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:46 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:46 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:46 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:46 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:48 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:48 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:48 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:48 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:48 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:50 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:50 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:50 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:50 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:50 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:52 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:52 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:52 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:52 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:52 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:54 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:54 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:54 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:54 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:54 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:56 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:56 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:56 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:56 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:56 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:58 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:58 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:58 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:58 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:20:58 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:00 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:00 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:00 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:00 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:00 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:02 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:02 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:02 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:02 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:02 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:04 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:04 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:04 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:04 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:04 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:06 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:06 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:06 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:06 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:06 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:08 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:08 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:08 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:08 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:08 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:10 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:10 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:10 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:10 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:10 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:12 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:12 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:12 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:12 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:12 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:14 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:14 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:14 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:14 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:14 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:16 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:16 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:16 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:16 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:16 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:18 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:18 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:18 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:18 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:18 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:20 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:20 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:20 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:20 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:20 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:22 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:22 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:22 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:22 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:22 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:24 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:24 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:24 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:24 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:24 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:26 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:26 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:26 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:26 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:26 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:28 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:28 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:28 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:28 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:28 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:30 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:30 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:30 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:30 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:30 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:32 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:32 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:32 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:32 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:32 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:34 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:34 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:34 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:34 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:34 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:36 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:36 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:36 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:36 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:36 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:38 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:38 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:38 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:38 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:38 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:40 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:40 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:40 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:40 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:40 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:42 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:42 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:42 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:42 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:42 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:44 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:44 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:44 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:44 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:44 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:46 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:46 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:46 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:46 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:46 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:48 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:48 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:48 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:48 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:48 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:50 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:50 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:50 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:50 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:50 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:52 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:52 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:52 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:52 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:52 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:54 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:54 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:54 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:54 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:21:54 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:22:08 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:22:08 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:22:08 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:22:08 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:22:08 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:22:10 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:22:10 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:22:10 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:22:10 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:22:10 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:22:12 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:22:12 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:22:12 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:22:12 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:22:12 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:22:14 2024] ALERTA: Sensor 0 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:22:14 2024] ALERTA: Sensor 1 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:22:14 2024] ALERTA: Sensor 2 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:22:14 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:22:14 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:26:39 2024] Sensor 0: Temperatura medida: 654.00
+[Thu Oct  3 23:26:39 2024] Sensor 1: Temperatura medida: 738.00
+[Thu Oct  3 23:26:39 2024] ALERTA: Sensor 0 detectou temperatura baixa 654.00 
+
+[Thu Oct  3 23:26:39 2024] ALERTA: Sensor 1 detectou temperatura baixa 738.00 
+
+[Thu Oct  3 23:26:39 2024] Sensor 2: Temperatura medida: 774.00
+[Thu Oct  3 23:26:39 2024] ALERTA: Sensor 3 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:26:39 2024] Sensor 3: Temperatura medida: 667.00
+[Thu Oct  3 23:26:39 2024] ALERTA: Sensor 4 detectou temperatura baixa 0.00 
+
+[Thu Oct  3 23:26:39 2024] Sensor 4: Temperatura medida: 698.00
+[Thu Oct  3 23:26:40 2024] Sensor 1: Temperatura medida: 617.00
+[Thu Oct  3 23:26:40 2024] Sensor 0: Temperatura medida: 726.00
+[Thu Oct  3 23:26:40 2024] Sensor 2: Temperatura medida: 870.00
+[Thu Oct  3 23:26:40 2024] Sensor 3: Temperatura medida: 718.00
+[Thu Oct  3 23:26:40 2024] Sensor 4: Temperatura medida: 737.00
+[Thu Oct  3 23:26:41 2024] ALERTA: Sensor 0 detectou temperatura baixa 726.00 
+
+[Thu Oct  3 23:26:41 2024] Sensor 1: Temperatura medida: 727.00
+[] Sensor 0: Temperatura medida: 786.00
+[Thu Oct  3 23:26:41 2024] ALERTA: Sensor 1 detectou temperatura baixa 727.00 
+
+[Thu Oct  3 23:26:41 2024] ALERTA: Sensor 2 detectou temperatura alta 870.00 
+
+[Thu Oct  3 23:26:41 2024] Sensor 3: Temperatura medida: 848.00
+[Thu Oct  3 23:26:41 2024] Sensor 2: Temperatura medida: 627.00
+[Thu Oct  3 23:26:41 2024] ALERTA: Sensor 4 detectou temperatura baixa 737.00 
+
+[Thu Oct  3 23:26:41 2024] Sensor 4: Temperatura medida: 751.00
+[Thu Oct  3 23:26:42 2024] Sensor 1: Temperatura medida: 699.00
+[Thu Oct  3 23:26:42 2024] Sensor 0: Temperatura medida: 796.00
+[Thu Oct  3 23:26:42 2024] Sensor 2: Temperatura medida: 720.00
+[Thu Oct  3 23:26:42 2024] Sensor 3: Temperatura medida: 782.00
+[Thu Oct  3 23:26:42 2024] Sensor 4: Temperatura medida: 819.00
+[Thu Oct  3 23:26:43 2024] ALERTA: Sensor 1 detectou temperatura baixa 699.00 
+
+[Thu Oct  3 23:26:43 2024] ALERTA: Sensor 2 detectou temperatura baixa 720.00 
+
+[Thu Oct  3 23:26:43 2024] Sensor 1: Temperatura medida: 724.00
+[Thu Oct  3 23:26:43 2024] Sensor 0: Temperatura medida: 872.00
+[Thu Oct  3 23:26:43 2024] Sensor 2: Temperatura medida: 715.00
+[Thu Oct  3 23:26:43 2024] Sensor 3: Temperatura medida: 663.00
+[Thu Oct  3 23:26:43 2024] Sensor 4: Temperatura medida: 897.00
+[Thu Oct  3 23:26:44 2024] Sensor 1: Temperatura medida: 883.00
+[Thu Oct  3 23:26:44 2024] Sensor 2: Temperatura medida: 716.00
+[Thu Oct  3 23:26:44 2024] Sensor 0: Temperatura medida: 626.00
+[Thu Oct  3 23:26:44 2024] Sensor 3: Temperatura medida: 875.00
+[Thu Oct  3 23:26:44 2024] Sensor 4: Temperatura medida: 660.00
+[Thu Oct  3 23:26:45 2024] ALERTA: Sensor 0 detectou temperatura baixa 626.00 
+
+[Thu Oct  3 23:26:45 2024] ALERTA: Sensor 1 detectou temperatura alta 883.00 
+
+[Thu Oct  3 23:26:45 2024] ALERTA: Sensor 2 detectou temperatura baixa 716.00 
+
+[Thu Oct  3 23:26:45 2024] ALERTA: Sensor 3 detectou temperatura alta 875.00 
+
+[Thu Oct  3 23:26:45 2024] ALERTA: Sensor 4 detectou temperatura baixa 660.00 
+
+[Thu Oct  3 23:26:45 2024] Sensor 1: Temperatura medida: 729.00
+[Thu Oct  3 23:26:45 2024] Sensor 2: Temperatura medida: 628.00
+[Thu Oct  3 23:26:45 2024] Sensor 0: Temperatura medida: 798.00
+[Thu Oct  3 23:26:45 2024] Sensor 3: Temperatura medida: 852.00
+[Thu Oct  3 23:26:45 2024] Sensor 4: Temperatura medida: 696.00
+[Thu Oct  3 23:26:46 2024] Sensor 1: Temperatura medida: 897.00
+[Thu Oct  3 23:26:46 2024] Sensor 2: Temperatura medida: 818.00
+[Thu Oct  3 23:26:46 2024] Sensor 3: Temperatura medida: 771.00
+[Thu Oct  3 23:26:46 2024] Sensor 0: Temperatura medida: 815.00
+[Thu Oct  3 23:26:46 2024] Sensor 4: Temperatura medida: 886.00
+[Thu Oct  3 23:26:47 2024] ALERTA: Sensor 1 detectou temperatura alta 897.00 
+
+[Thu Oct  3 23:26:47 2024] ALERTA: Sensor 4 detectou temperatura alta 886.00 
+
+[Thu Oct  3 23:26:47 2024] Sensor 1: Temperatura medida: 607.00
+[Thu Oct  3 23:26:47 2024] Sensor 2: Temperatura medida: 642.00
+[Thu Oct  3 23:26:47 2024] Sensor 3: Temperatura medida: 771.00
+[Thu Oct  3 23:26:47 2024] Sensor 0: Temperatura medida: 805.00
+[Thu Oct  3 23:26:47 2024] Sensor 4: Temperatura medida: 618.00
+[Thu Oct  3 23:26:48 2024] Sensor 1: Temperatura medida: 621.00
+[Thu Oct  3 23:26:48 2024] Sensor 3: Temperatura medida: 603.00
+[Thu Oct  3 23:26:48 2024] Sensor 0: Temperatura medida: 763.00
+[Thu Oct  3 23:26:48 2024] Sensor 2: Temperatura medida: 741.00
+[Thu Oct  3 23:26:48 2024] Sensor 4: Temperatura medida: 734.00
+[Thu Oct  3 23:26:49 2024] ALERTA: Sensor 1 detectou temperatura baixa 621.00 
+
+[Thu Oct  3 23:26:49 2024] ALERTA: Sensor 3 detectou temperatura baixa 603.00 
+
+[Thu Oct  3 23:26:49 2024] ALERTA: Sensor 4 detectou temperatura baixa 734.00 
+
+[Thu Oct  3 23:26:49 2024] Sensor 3: Temperatura medida: 681.00
+[Thu Oct  3 23:26:49 2024] Sensor 1: Temperatura medida: 814.00
+[Thu Oct  3 23:26:49 2024] Sensor 0: Temperatura medida: 654.00
+[Thu Oct  3 23:26:49 2024] Sensor 2: Temperatura medida: 745.00
+[Thu Oct  3 23:26:49 2024] Sensor 4: Temperatura medida: 826.00
+[Thu Oct  3 23:26:50 2024] Sensor 3: Temperatura medida: 651.00
+[Thu Oct  3 23:26:50 2024] Sensor 0: Temperatura medida: 728.00
+[Thu Oct  3 23:26:50 2024] Sensor 4: Temperatura medida: 641.00
+[Thu Oct  3 23:26:50 2024] Sensor 2: Temperatura medida: 626.00
+[Thu Oct  3 23:26:50 2024] Sensor 1: Temperatura medida: 651.00
+[Thu Oct  3 23:26:51 2024] ALERTA: Sensor 0 detectou temperatura baixa 728.00 
+
+[Thu Oct  3 23:26:51 2024] ALERTA: Sensor 1 detectou temperatura baixa 651.00 
+
+[Thu Oct  3 23:26:51 2024] ALERTA: Sensor 2 detectou temperatura baixa 626.00 
+
+[Thu Oct  3 23:26:51 2024] ALERTA: Sensor 3 detectou temperatura baixa 651.00 
+
+[Thu Oct  3 23:26:51 2024] ALERTA: Sensor 4 detectou temperatura baixa 641.00 
+
+[Thu Oct  3 23:26:51 2024] Sensor 3: Temperatura medida: 702.00
+[Thu Oct  3 23:26:51 2024] Sensor 0: Temperatura medida: 704.00
+[Thu Oct  3 23:26:51 2024] Sensor 2: Temperatura medida: 679.00
+[Thu Oct  3 23:26:51 2024] Sensor 4: Temperatura medida: 849.00
+[Thu Oct  3 23:26:51 2024] Sensor 1: Temperatura medida: 656.00
+[Thu Oct  3 23:26:52 2024] Sensor 0: Temperatura medida: 724.00
+[Thu Oct  3 23:26:52 2024] Sensor 4: Temperatura medida: 794.00
+[Thu Oct  3 23:26:52 2024] Sensor 2: Temperatura medida: 874.00
+[Thu Oct  3 23:26:52 2024] Sensor 3: Temperatura medida: 845.00
+[Thu Oct  3 23:26:52 2024] Sensor 1: Temperatura medida: 709.00
+[Thu Oct  3 23:28:19 2024] Sensor 0: Temperatura medida: 723.00
+[Thu Oct  3 23:28:19 2024] Sensor 1: Temperatura medida: 605.00
+[Thu Oct  3 23:28:19 2024] ALERTA: Sensor 0 detectou temperatura baixa 723.00 
+
+[Thu Oct  3 23:28:19 2024] Sensor 2: Temperatura medida: 866.00
+[Thu Oct  3 23:28:19 2024] ALERTA: Sensor 1 detectou temperatura baixa 605.00 
+
+[Thu Oct  3 23:28:19 2024] Sensor 3: Temperatura medida: 730.00
+[Thu Oct  3 23:28:19 2024] ALERTA: Sensor 2 detectou temperatura alta 866.00 
+
+[Thu Oct  3 23:28:19 2024] Sensor 4: Temperatura medida: 813.00
+[Thu Oct  3 23:28:19 2024] ALERTA: Sensor 3 detectou temperatura baixa 730.00 
+
+[Thu Oct  3 23:28:20 2024] Sensor 0: Temperatura medida: 781.00
+[Thu Oct  3 23:28:20 2024] Sensor 1: Temperatura medida: 627.00
+[Thu Oct  3 23:28:20 2024] Sensor 2: Temperatura medida: 820.00
+[Thu Oct  3 23:28:20 2024] Sensor 3: Temperatura medida: 706.00
+[Thu Oct  3 23:28:20 2024] Sensor 4: Temperatura medida: 881.00
+[Thu Oct  3 23:28:21 2024] Sensor 0: Temperatura medida: 623.00
+[Thu Oct  3 23:28:21 2024] Sensor 1: Temperatura medida: 676.00
+[Thu Oct  3 23:28:21 2024] ALERTA: Sensor 0 detectou temperatura baixa 623.00 
+
+[Thu Oct  3 23:28:21 2024] ALERTA: Sensor 1 detectou temperatura baixa 676.00 
+
+[Thu Oct  3 23:28:21 2024] ALERTA: Sensor 3 detectou temperatura baixa 706.00 
+
+[Thu Oct  3 23:28:21 2024] ALERTA: Sensor 4 detectou temperatura alta 881.00 
+
+[Thu Oct  3 23:28:21 2024] Sensor 2: Temperatura medida: 819.00
+[Thu Oct  3 23:28:21 2024] Sensor 3: Temperatura medida: 826.00
+[Thu Oct  3 23:28:21 2024] Sensor 4: Temperatura medida: 610.00
+[Thu Oct  3 23:28:22 2024] Sensor 0: Temperatura medida: 835.00
+[Thu Oct  3 23:28:22 2024] Sensor 1: Temperatura medida: 618.00
+[Thu Oct  3 23:28:22 2024] Sensor 2: Temperatura medida: 686.00
+[Thu Oct  3 23:28:22 2024] Sensor 3: Temperatura medida: 691.00
+[Thu Oct  3 23:28:22 2024] Sensor 4: Temperatura medida: 809.00
+[Thu Oct  3 23:28:23 2024] Sensor 0: Temperatura medida: 777.00
+[Thu Oct  3 23:28:23 2024] Sensor 1: Temperatura medida: 606.00
+[Thu Oct  3 23:28:23 2024] ALERTA: Sensor 1 detectou temperatura baixa 606.00 
+
+[Thu Oct  3 23:28:23 2024] ALERTA: Sensor 2 detectou temperatura baixa 686.00 
+
+[Thu Oct  3 23:28:23 2024] ALERTA: Sensor 3 detectou temperatura baixa 691.00 
+
+[Thu Oct  3 23:28:23 2024] Sensor 2: Temperatura medida: 633.00
+[Thu Oct  3 23:28:23 2024] Sensor 3: Temperatura medida: 826.00
+[Thu Oct  3 23:28:23 2024] Sensor 4: Temperatura medida: 702.00
+[Thu Oct  3 23:28:24 2024] Sensor 0: Temperatura medida: 856.00
+[Thu Oct  3 23:28:24 2024] Sensor 1: Temperatura medida: 845.00
+[Thu Oct  3 23:28:24 2024] Sensor 2: Temperatura medida: 732.00
+[Thu Oct  3 23:28:24 2024] Sensor 3: Temperatura medida: 673.00
+[Thu Oct  3 23:28:24 2024] Sensor 4: Temperatura medida: 826.00
+[Thu Oct  3 23:28:25 2024] ALERTA: Sensor 0 detectou temperatura alta 856.00 
+
+[Thu Oct  3 23:28:25 2024] ALERTA: Sensor 2 detectou temperatura baixa 732.00 
+
+[Thu Oct  3 23:28:25 2024] Sensor 0: Temperatura medida: 754.00
+[Thu Oct  3 23:28:25 2024] ALERTA: Sensor 3 detectou temperatura baixa 673.00 
+
+[Thu Oct  3 23:28:25 2024] Sensor 1: Temperatura medida: 796.00
+[Thu Oct  3 23:28:25 2024] Sensor 4: Temperatura medida: 781.00
+[Thu Oct  3 23:28:25 2024] Sensor 3: Temperatura medida: 668.00
+[Thu Oct  3 23:28:25 2024] Sensor 2: Temperatura medida: 875.00
+[Thu Oct  3 23:28:58 2024] Sensor 0: Temperatura medida: 877.00
+[Thu Oct  3 23:28:58 2024] Sensor 1: Temperatura medida: 640.00
+[Thu Oct  3 23:28:58 2024] Sensor 3: Temperatura medida: 890.00
+[Thu Oct  3 23:28:58 2024] Sensor 4: Temperatura medida: 896.00
+[Thu Oct  3 23:28:58 2024] Sensor 2: Temperatura medida: 695.00
+[Thu Oct  3 23:28:58 2024] ALERTA: Sensor 0 detectou temperatura alta 877.00 
+
+[Thu Oct  3 23:28:58 2024] ALERTA: Sensor 1 detectou temperatura baixa 640.00 
+
+[Thu Oct  3 23:28:58 2024] ALERTA: Sensor 2 detectou temperatura baixa 695.00 
+
+[Thu Oct  3 23:28:58 2024] ALERTA: Sensor 3 detectou temperatura alta 890.00 
+
+[Thu Oct  3 23:28:58 2024] ALERTA: Sensor 4 detectou temperatura alta 896.00 
+
+[Thu Oct  3 23:28:59 2024] Sensor 0: Temperatura medida: 816.00
+[Thu Oct  3 23:28:59 2024] Sensor 1: Temperatura medida: 607.00
+[Thu Oct  3 23:28:59 2024] Sensor 3: Temperatura medida: 620.00
+[Thu Oct  3 23:28:59 2024] Sensor 4: Temperatura medida: 769.00
+[Thu Oct  3 23:28:59 2024] Sensor 2: Temperatura medida: 868.00
+[Thu Oct  3 23:29:00 2024] Sensor 0: Temperatura medida: 888.00
+[Thu Oct  3 23:29:00 2024] Sensor 1: Temperatura medida: 827.00
+[Thu Oct  3 23:29:00 2024] Sensor 3: Temperatura medida: 659.00
+[Thu Oct  3 23:29:00 2024] ALERTA: Sensor 0 detectou temperatura alta 888.00 
+
+[Thu Oct  3 23:29:00 2024] Sensor 4: Temperatura medida: 657.00
+[Thu Oct  3 23:29:00 2024] ALERTA: Sensor 2 detectou temperatura alta 868.00 
+
+[Thu Oct  3 23:29:00 2024] ALERTA: Sensor 3 detectou temperatura baixa 659.00 
+
+[Thu Oct  3 23:29:00 2024] Sensor 2: Temperatura medida: 766.00
+[Thu Oct  3 23:29:00 2024] ALERTA: Sensor 4 detectou temperatura baixa 657.00 
+
+[Thu Oct  3 23:29:01 2024] Sensor 0: Temperatura medida: 742.00
+[Thu Oct  3 23:29:01 2024] Sensor 1: Temperatura medida: 724.00
+[Thu Oct  3 23:29:01 2024] Sensor 3: Temperatura medida: 657.00
+[Thu Oct  3 23:29:01 2024] Sensor 4: Temperatura medida: 756.00
+[Thu Oct  3 23:29:01 2024] Sensor 2: Temperatura medida: 878.00
+[Thu Oct  3 23:29:02 2024] Sensor 0: Temperatura medida: 731.00
+[Thu Oct  3 23:29:02 2024] Sensor 1: Temperatura medida: 876.00
+[Thu Oct  3 23:29:02 2024] ALERTA: Sensor 0 detectou temperatura baixa 731.00 
+
+[Thu Oct  3 23:29:02 2024] Sensor 4: Temperatura medida: 762.00
+[Thu Oct  3 23:29:02 2024] ALERTA: Sensor 1 detectou temperatura alta 876.00 
+
+[Thu Oct  3 23:29:02 2024] ALERTA: Sensor 2 detectou temperatura alta 878.00 
+
+[Thu Oct  3 23:29:02 2024] Sensor 3: Temperatura medida: 616.00
+[Thu Oct  3 23:29:02 2024] ALERTA: Sensor 3 detectou temperatura baixa 616.00 
+
+[Thu Oct  3 23:29:02 2024] Sensor 2: Temperatura medida: 605.00
+[Thu Oct  3 23:29:03 2024] Sensor 0: Temperatura medida: 762.00
+[Thu Oct  3 23:29:03 2024] Sensor 1: Temperatura medida: 779.00
+[Thu Oct  3 23:29:03 2024] Sensor 4: Temperatura medida: 774.00
+[Thu Oct  3 23:29:03 2024] Sensor 3: Temperatura medida: 741.00
+[Thu Oct  3 23:29:03 2024] Sensor 2: Temperatura medida: 883.00
+[Thu Oct  3 23:29:04 2024] Sensor 0: Temperatura medida: 719.00
+[Thu Oct  3 23:29:04 2024] ALERTA: Sensor 0 detectou temperatura baixa 719.00 
+
+[Thu Oct  3 23:29:04 2024] ALERTA: Sensor 2 detectou temperatura alta 883.00 
+
+[Thu Oct  3 23:29:04 2024] Sensor 1: Temperatura medida: 666.00
+[Thu Oct  3 23:29:04 2024] Sensor 4: Temperatura medida: 872.00
+[Thu Oct  3 23:29:04 2024] Sensor 2: Temperatura medida: 657.00
+[Thu Oct  3 23:29:04 2024] Sensor 3: Temperatura medida: 610.00
+[Thu Oct  3 23:29:05 2024] Sensor 0: Temperatura medida: 667.00
+[Thu Oct  3 23:29:05 2024] Sensor 1: Temperatura medida: 874.00
+[Thu Oct  3 23:29:05 2024] Sensor 4: Temperatura medida: 618.00
+[Thu Oct  3 23:29:05 2024] Sensor 2: Temperatura medida: 687.00
+[Thu Oct  3 23:29:05 2024] Sensor 3: Temperatura medida: 742.00
+[Thu Oct  3 23:29:06 2024] Sensor 0: Temperatura medida: 835.00
+[Thu Oct  3 23:29:06 2024] ALERTA: Sensor 1 detectou temperatura alta 874.00 
+
+[Thu Oct  3 23:29:06 2024] ALERTA: Sensor 2 detectou temperatura baixa 687.00 
+
+[Thu Oct  3 23:29:06 2024] ALERTA: Sensor 4 detectou temperatura baixa 618.00 
+
+[Thu Oct  3 23:29:06 2024] Sensor 1: Temperatura medida: 623.00
+[Thu Oct  3 23:29:06 2024] Sensor 4: Temperatura medida: 617.00
+[Thu Oct  3 23:29:06 2024] Sensor 2: Temperatura medida: 843.00
+[Thu Oct  3 23:29:06 2024] Sensor 3: Temperatura medida: 680.00
+[Thu Oct  3 23:29:07 2024] Sensor 0: Temperatura medida: 784.00
+[Thu Oct  3 23:29:07 2024] Sensor 1: Temperatura medida: 634.00
+[Thu Oct  3 23:29:07 2024] Sensor 4: Temperatura medida: 754.00
+[Thu Oct  3 23:29:07 2024] Sensor 2: Temperatura medida: 841.00
+[Thu Oct  3 23:29:07 2024] Sensor 3: Temperatura medida: 790.00
+[Thu Oct  3 23:29:08 2024] ALERTA: Sensor 1 detectou temperatura baixa 634.00 
+
+[Thu Oct  3 23:29:08 2024] Sensor 0: Temperatura medida: 680.00
+[Thu Oct  3 23:29:08 2024] Sensor 1: Temperatura medida: 621.00
+[Thu Oct  3 23:29:08 2024] Sensor 2: Temperatura medida: 765.00
+[Thu Oct  3 23:29:08 2024] Sensor 3: Temperatura medida: 842.00
+[Thu Oct  3 23:29:08 2024] Sensor 4: Temperatura medida: 637.00
+[Thu Oct  3 23:29:09 2024] Sensor 0: Temperatura medida: 771.00
+[Thu Oct  3 23:29:09 2024] Sensor 1: Temperatura medida: 653.00
+[Thu Oct  3 23:29:09 2024] Sensor 2: Temperatura medida: 766.00
+[Thu Oct  3 23:29:09 2024] Sensor 3: Temperatura medida: 894.00
+[Thu Oct  3 23:29:09 2024] Sensor 4: Temperatura medida: 743.00
+[Thu Oct  3 23:29:10 2024] ALERTA: Sensor 1 detectou temperatura baixa 653.00 
+
+[Thu Oct  3 23:29:10 2024] ALERTA: Sensor 3 detectou temperatura alta 894.00 
+
+[Thu Oct  3 23:29:10 2024] Sensor 0: Temperatura medida: 697.00
+[Thu Oct  3 23:29:10 2024] Sensor 1: Temperatura medida: 662.00
+[Thu Oct  3 23:29:10 2024] Sensor 2: Temperatura medida: 759.00
+[Thu Oct  3 23:29:10 2024] Sensor 3: Temperatura medida: 617.00
+[Thu Oct  3 23:29:10 2024] Sensor 4: Temperatura medida: 719.00

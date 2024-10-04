@@ -1,0 +1,238 @@
+[03-10-2024 23:40:54] Thread do sensor 2 iniciada.
+[03-10-2024 23:40:54] Thread de alerta iniciada.
+[03-10-2024 23:40:54] ALERTA: Sensor 0 detectou temperatura baixa 0.00
+[03-10-2024 23:40:54] ALERTA: Sensor 1 detectou temperatura baixa 0.00
+[03-10-2024 23:40:54] Thread do sensor 0 iniciada.
+[03-10-2024 23:40:54] Thread do sensor 1 iniciada.
+[03-10-2024 23:40:54] Sensor 2: Temperatura medida: 868.00
+[03-10-2024 23:40:54] Thread do sensor 3 iniciada.
+[03-10-2024 23:40:54] Sensor 3: Temperatura medida: 900.00
+[03-10-2024 23:40:54] Sensor 0: Temperatura medida: 900.00
+[03-10-2024 23:40:54] Thread do sensor 4 iniciada.
+[03-10-2024 23:40:54] Sensor 1: Temperatura medida: 650.00
+[03-10-2024 23:40:54] ALERTA: Sensor 2 detectou temperatura alta 868.00
+[03-10-2024 23:40:54] ALERTA: Sensor 3 detectou temperatura alta 900.00
+[03-10-2024 23:40:54] Sensor 4: Temperatura medida: 636.00
+[03-10-2024 23:40:54] ALERTA: Sensor 4 detectou temperatura baixa 636.00
+[03-10-2024 23:40:55] Sensor 2: Temperatura medida: 605.00
+[03-10-2024 23:40:55] Sensor 0: Temperatura medida: 767.00
+[03-10-2024 23:40:55] Sensor 3: Temperatura medida: 623.00
+[03-10-2024 23:40:55] Sensor 1: Temperatura medida: 600.00
+[03-10-2024 23:40:55] Sensor 4: Temperatura medida: 850.00
+[03-10-2024 23:40:56] Sensor 0: Temperatura medida 767.00 está dentro da faixa normal.
+[03-10-2024 23:40:56] Sensor 2: Temperatura medida: 732.00
+[03-10-2024 23:40:56] Sensor 3: Temperatura medida: 634.00
+[03-10-2024 23:40:56] ALERTA: Sensor 1 detectou temperatura baixa 600.00
+[03-10-2024 23:40:56] ALERTA: Sensor 2 detectou temperatura baixa 732.00
+[03-10-2024 23:40:56] Sensor 0: Temperatura medida: 734.00
+[03-10-2024 23:40:56] Sensor 1: Temperatura medida: 867.00
+[03-10-2024 23:40:56] ALERTA: Sensor 3 detectou temperatura baixa 634.00
+[03-10-2024 23:40:56] Sensor 4: Temperatura medida 850.00 está dentro da faixa normal.
+[03-10-2024 23:40:56] Sensor 4: Temperatura medida: 757.00
+[03-10-2024 23:40:57] Sensor 0: Temperatura medida: 799.00
+[03-10-2024 23:40:57] Sensor 4: Temperatura medida: 889.00
+[03-10-2024 23:40:57] Sensor 2: Temperatura medida: 700.00
+[03-10-2024 23:40:57] Sensor 3: Temperatura medida: 635.00
+[03-10-2024 23:40:57] Sensor 1: Temperatura medida: 849.00
+[03-10-2024 23:40:58] Sensor 0: Temperatura medida 799.00 está dentro da faixa normal.
+[03-10-2024 23:40:58] Sensor 0: Temperatura medida: 801.00
+[03-10-2024 23:40:58] Sensor 1: Temperatura medida 849.00 está dentro da faixa normal.
+[03-10-2024 23:40:58] ALERTA: Sensor 2 detectou temperatura baixa 700.00
+[03-10-2024 23:40:58] Sensor 4: Temperatura medida: 883.00
+[03-10-2024 23:40:58] ALERTA: Sensor 3 detectou temperatura baixa 635.00
+[03-10-2024 23:40:58] ALERTA: Sensor 4 detectou temperatura alta 883.00
+[03-10-2024 23:40:58] Sensor 2: Temperatura medida: 825.00
+[03-10-2024 23:40:58] Sensor 3: Temperatura medida: 883.00
+[03-10-2024 23:40:58] Sensor 1: Temperatura medida: 706.00
+[03-10-2024 23:40:59] Sensor 4: Temperatura medida: 853.00
+[03-10-2024 23:40:59] Sensor 2: Temperatura medida: 622.00
+[03-10-2024 23:40:59] Sensor 0: Temperatura medida: 855.00
+[03-10-2024 23:40:59] Sensor 3: Temperatura medida: 680.00
+[03-10-2024 23:40:59] Sensor 1: Temperatura medida: 811.00
+[03-10-2024 23:41:00] Sensor 4: Temperatura medida: 677.00
+[03-10-2024 23:41:00] ALERTA: Sensor 0 detectou temperatura alta 855.00
+[03-10-2024 23:41:00] Sensor 1: Temperatura medida 811.00 está dentro da faixa normal.
+[03-10-2024 23:41:00] Sensor 0: Temperatura medida: 648.00
+[03-10-2024 23:41:00] ALERTA: Sensor 2 detectou temperatura baixa 622.00
+[03-10-2024 23:41:00] ALERTA: Sensor 3 detectou temperatura baixa 680.00
+[03-10-2024 23:41:00] Sensor 2: Temperatura medida: 759.00
+[03-10-2024 23:41:00] ALERTA: Sensor 4 detectou temperatura baixa 677.00
+[03-10-2024 23:41:00] Sensor 3: Temperatura medida: 625.00
+[03-10-2024 23:41:00] Sensor 1: Temperatura medida: 647.00
+[03-10-2024 23:41:01] Sensor 0: Temperatura medida: 795.00
+[03-10-2024 23:41:01] Sensor 4: Temperatura medida: 880.00
+[03-10-2024 23:41:01] Sensor 2: Temperatura medida: 815.00
+[03-10-2024 23:41:01] Sensor 3: Temperatura medida: 818.00
+[03-10-2024 23:41:01] Sensor 1: Temperatura medida: 880.00
+[03-10-2024 23:45:31] Nova thread criada
+[03-10-2024 23:45:31] Thread do sensor 0 iniciada.
+[03-10-2024 23:45:31] Sensor 0: Temperatura medida: 878.00
+[03-10-2024 23:45:31] Nova thread criada
+[03-10-2024 23:45:31] Thread do sensor 1 iniciada.
+[03-10-2024 23:45:31] Sensor 1: Temperatura medida: 751.00
+[03-10-2024 23:45:31] Nova thread criada
+[03-10-2024 23:45:31] Thread do sensor 2 iniciada.
+[03-10-2024 23:45:31] Sensor 2: Temperatura medida: 705.00
+[03-10-2024 23:45:31] Nova thread criada
+[03-10-2024 23:45:31] Thread do sensor 3 iniciada.
+[03-10-2024 23:45:31] Sensor 3: Temperatura medida: 723.00
+[03-10-2024 23:45:31] Nova thread criada
+[03-10-2024 23:45:31] Thread do sensor 4 iniciada.
+[03-10-2024 23:45:31] Sensor 4: Temperatura medida: 849.00
+[03-10-2024 23:45:31] Nova thread criada
+[03-10-2024 23:45:31] Thread de alerta iniciada.
+[03-10-2024 23:45:31] ALERTA: Sensor 0 detectou temperatura alta 878.00
+[03-10-2024 23:45:31] Sensor 1: Temperatura medida 751.00 está dentro da faixa normal.
+[03-10-2024 23:45:31] ALERTA: Sensor 2 detectou temperatura baixa 705.00
+[03-10-2024 23:45:31] ALERTA: Sensor 3 detectou temperatura baixa 723.00
+[03-10-2024 23:45:31] Sensor 4: Temperatura medida 849.00 está dentro da faixa normal.
+[03-10-2024 23:45:32] Sensor 0: Temperatura medida: 685.00
+[03-10-2024 23:45:32] Sensor 1: Temperatura medida: 832.00
+[03-10-2024 23:45:32] Sensor 3: Temperatura medida: 893.00
+[03-10-2024 23:45:32] Sensor 2: Temperatura medida: 750.00
+[03-10-2024 23:45:32] Sensor 4: Temperatura medida: 733.00
+[03-10-2024 23:45:33] Sensor 0: Temperatura medida: 607.00
+[03-10-2024 23:45:33] Sensor 1: Temperatura medida: 601.00
+[03-10-2024 23:45:33] ALERTA: Sensor 0 detectou temperatura baixa 607.00
+[03-10-2024 23:45:33] ALERTA: Sensor 1 detectou temperatura baixa 601.00
+[03-10-2024 23:45:33] Sensor 2: Temperatura medida 750.00 está dentro da faixa normal.
+[03-10-2024 23:45:33] ALERTA: Sensor 3 detectou temperatura alta 893.00
+[03-10-2024 23:45:33] Sensor 3: Temperatura medida: 771.00
+[03-10-2024 23:45:33] ALERTA: Sensor 4 detectou temperatura baixa 733.00
+[03-10-2024 23:45:33] Sensor 2: Temperatura medida: 714.00
+[03-10-2024 23:45:33] Sensor 4: Temperatura medida: 830.00
+[03-10-2024 23:45:34] Sensor 0: Temperatura medida: 723.00
+[03-10-2024 23:45:34] Sensor 1: Temperatura medida: 689.00
+[03-10-2024 23:45:34] Sensor 3: Temperatura medida: 642.00
+[03-10-2024 23:45:34] Sensor 2: Temperatura medida: 880.00
+[03-10-2024 23:45:34] Sensor 4: Temperatura medida: 711.00
+[03-10-2024 23:45:35] Sensor 0: Temperatura medida: 772.00
+[03-10-2024 23:45:35] Sensor 1: Temperatura medida: 817.00
+[03-10-2024 23:45:35] Sensor 0: Temperatura medida 772.00 está dentro da faixa normal.
+[03-10-2024 23:45:35] Sensor 3: Temperatura medida: 826.00
+[03-10-2024 23:45:35] Sensor 1: Temperatura medida 817.00 está dentro da faixa normal.
+[03-10-2024 23:45:35] ALERTA: Sensor 2 detectou temperatura alta 880.00
+[03-10-2024 23:45:35] Sensor 2: Temperatura medida: 632.00
+[03-10-2024 23:45:35] Sensor 3: Temperatura medida 826.00 está dentro da faixa normal.
+[03-10-2024 23:45:35] ALERTA: Sensor 4 detectou temperatura baixa 711.00
+[03-10-2024 23:45:35] Sensor 4: Temperatura medida: 644.00
+[03-10-2024 23:45:36] Sensor 0: Temperatura medida: 798.00
+[03-10-2024 23:45:36] Sensor 1: Temperatura medida: 858.00
+[03-10-2024 23:45:36] Sensor 2: Temperatura medida: 657.00
+[03-10-2024 23:45:36] Sensor 4: Temperatura medida: 881.00
+[03-10-2024 23:45:36] Sensor 3: Temperatura medida: 896.00
+[03-10-2024 23:45:37] Sensor 0: Temperatura medida: 741.00
+[03-10-2024 23:45:37] Sensor 1: Temperatura medida: 807.00
+[03-10-2024 23:45:37] Sensor 4: Temperatura medida: 695.00
+[03-10-2024 23:45:37] Sensor 0: Temperatura medida 741.00 está dentro da faixa normal.
+[03-10-2024 23:45:37] Sensor 2: Temperatura medida: 847.00
+[03-10-2024 23:45:37] Sensor 1: Temperatura medida 807.00 está dentro da faixa normal.
+[03-10-2024 23:45:37] Sensor 2: Temperatura medida 847.00 está dentro da faixa normal.
+[03-10-2024 23:45:37] Sensor 3: Temperatura medida: 630.00
+[03-10-2024 23:45:37] ALERTA: Sensor 3 detectou temperatura baixa 630.00
+[03-10-2024 23:45:37] ALERTA: Sensor 4 detectou temperatura baixa 695.00
+[03-10-2024 23:45:38] Sensor 0: Temperatura medida: 894.00
+[03-10-2024 23:45:38] Sensor 4: Temperatura medida: 881.00
+[03-10-2024 23:45:38] Sensor 3: Temperatura medida: 811.00
+[03-10-2024 23:45:38] Sensor 1: Temperatura medida: 886.00
+[03-10-2024 23:45:38] Sensor 2: Temperatura medida: 680.00
+[03-10-2024 23:45:39] Sensor 3: Temperatura medida: 643.00
+[03-10-2024 23:45:39] ALERTA: Sensor 0 detectou temperatura alta 894.00
+[03-10-2024 23:45:39] Sensor 2: Temperatura medida: 842.00
+[03-10-2024 23:45:39] ALERTA: Sensor 1 detectou temperatura alta 886.00
+[03-10-2024 23:45:39] Sensor 2: Temperatura medida 842.00 está dentro da faixa normal.
+[03-10-2024 23:45:39] ALERTA: Sensor 3 detectou temperatura baixa 643.00
+[03-10-2024 23:45:39] Sensor 0: Temperatura medida: 630.00
+[03-10-2024 23:45:39] ALERTA: Sensor 4 detectou temperatura alta 881.00
+[03-10-2024 23:45:39] Sensor 4: Temperatura medida: 814.00
+[03-10-2024 23:45:39] Sensor 1: Temperatura medida: 604.00
+[03-10-2024 23:45:40] Sensor 3: Temperatura medida: 809.00
+[03-10-2024 23:45:40] Sensor 0: Temperatura medida: 637.00
+[03-10-2024 23:45:40] Sensor 2: Temperatura medida: 642.00
+[03-10-2024 23:45:40] Sensor 1: Temperatura medida: 851.00
+[03-10-2024 23:45:40] Sensor 4: Temperatura medida: 616.00
+[03-10-2024 23:45:41] ALERTA: Sensor 0 detectou temperatura baixa 637.00
+[03-10-2024 23:45:41] ALERTA: Sensor 1 detectou temperatura alta 851.00
+[03-10-2024 23:45:41] ALERTA: Sensor 2 detectou temperatura baixa 642.00
+[03-10-2024 23:45:41] Sensor 3: Temperatura medida 809.00 está dentro da faixa normal.
+[03-10-2024 23:45:41] ALERTA: Sensor 4 detectou temperatura baixa 616.00
+[03-10-2024 23:45:41] Sensor 3: Temperatura medida: 754.00
+[03-10-2024 23:45:41] Sensor 0: Temperatura medida: 722.00
+[03-10-2024 23:45:41] Sensor 2: Temperatura medida: 782.00
+[03-10-2024 23:45:41] Sensor 1: Temperatura medida: 628.00
+[03-10-2024 23:45:41] Sensor 4: Temperatura medida: 755.00
+[03-10-2024 23:45:42] Sensor 3: Temperatura medida: 776.00
+[03-10-2024 23:45:42] Sensor 0: Temperatura medida: 827.00
+[03-10-2024 23:45:42] Sensor 4: Temperatura medida: 661.00
+[03-10-2024 23:45:42] Sensor 1: Temperatura medida: 833.00
+[03-10-2024 23:45:42] Sensor 2: Temperatura medida: 756.00
+[03-10-2024 23:45:43] Sensor 0: Temperatura medida 827.00 está dentro da faixa normal.
+[03-10-2024 23:45:43] Sensor 1: Temperatura medida 833.00 está dentro da faixa normal.
+[03-10-2024 23:45:43] Sensor 2: Temperatura medida 756.00 está dentro da faixa normal.
+[03-10-2024 23:45:43] Sensor 3: Temperatura medida 776.00 está dentro da faixa normal.
+[03-10-2024 23:45:43] Sensor 3: Temperatura medida: 656.00
+[03-10-2024 23:45:43] ALERTA: Sensor 4 detectou temperatura baixa 661.00
+[03-10-2024 23:45:43] Sensor 0: Temperatura medida: 673.00
+[03-10-2024 23:45:43] Sensor 4: Temperatura medida: 663.00
+[03-10-2024 23:45:43] Sensor 1: Temperatura medida: 701.00
+[03-10-2024 23:45:43] Sensor 2: Temperatura medida: 869.00
+[03-10-2024 23:45:44] Sensor 3: Temperatura medida: 642.00
+[03-10-2024 23:45:44] Sensor 4: Temperatura medida: 694.00
+[03-10-2024 23:45:44] Sensor 1: Temperatura medida: 799.00
+[03-10-2024 23:45:44] Sensor 0: Temperatura medida: 853.00
+[03-10-2024 23:45:44] Sensor 2: Temperatura medida: 628.00
+[03-10-2024 23:45:45] ALERTA: Sensor 0 detectou temperatura alta 853.00
+[03-10-2024 23:45:45] Sensor 1: Temperatura medida 799.00 está dentro da faixa normal.
+[03-10-2024 23:45:45] ALERTA: Sensor 2 detectou temperatura baixa 628.00
+[03-10-2024 23:45:45] ALERTA: Sensor 3 detectou temperatura baixa 642.00
+[03-10-2024 23:45:45] ALERTA: Sensor 4 detectou temperatura baixa 694.00
+[03-10-2024 23:45:45] Sensor 3: Temperatura medida: 879.00
+[03-10-2024 23:45:45] Sensor 4: Temperatura medida: 846.00
+[03-10-2024 23:45:45] Sensor 1: Temperatura medida: 819.00
+[03-10-2024 23:45:45] Sensor 0: Temperatura medida: 608.00
+[03-10-2024 23:45:45] Sensor 2: Temperatura medida: 759.00
+[03-10-2024 23:45:46] Sensor 3: Temperatura medida: 823.00
+[03-10-2024 23:45:46] Sensor 4: Temperatura medida: 817.00
+[03-10-2024 23:45:46] Sensor 1: Temperatura medida: 796.00
+[03-10-2024 23:45:46] Sensor 0: Temperatura medida: 814.00
+[03-10-2024 23:45:46] Sensor 2: Temperatura medida: 767.00
+[03-10-2024 23:45:47] Sensor 0: Temperatura medida 814.00 está dentro da faixa normal.
+[03-10-2024 23:45:47] Sensor 1: Temperatura medida: 761.00
+[03-10-2024 23:45:47] Sensor 0: Temperatura medida: 667.00
+[03-10-2024 23:45:47] Sensor 1: Temperatura medida 761.00 está dentro da faixa normal.
+[03-10-2024 23:45:47] Sensor 3: Temperatura medida: 838.00
+[03-10-2024 23:45:47] Sensor 2: Temperatura medida 767.00 está dentro da faixa normal.
+[03-10-2024 23:45:47] Sensor 4: Temperatura medida: 893.00
+[03-10-2024 23:45:47] Sensor 3: Temperatura medida 838.00 está dentro da faixa normal.
+[03-10-2024 23:45:47] ALERTA: Sensor 4 detectou temperatura alta 893.00
+[03-10-2024 23:45:47] Sensor 2: Temperatura medida: 645.00
+[03-10-2024 23:45:48] Sensor 1: Temperatura medida: 641.00
+[03-10-2024 23:45:48] Sensor 3: Temperatura medida: 768.00
+[03-10-2024 23:45:48] Sensor 4: Temperatura medida: 872.00
+[03-10-2024 23:45:48] Sensor 0: Temperatura medida: 702.00
+[03-10-2024 23:45:48] Sensor 2: Temperatura medida: 700.00
+[03-10-2024 23:45:49] Sensor 3: Temperatura medida: 727.00
+[03-10-2024 23:45:49] ALERTA: Sensor 0 detectou temperatura baixa 702.00
+[03-10-2024 23:45:49] Sensor 1: Temperatura medida: 708.00
+[03-10-2024 23:45:49] Sensor 4: Temperatura medida: 722.00
+[03-10-2024 23:45:49] ALERTA: Sensor 1 detectou temperatura baixa 708.00
+[03-10-2024 23:45:49] ALERTA: Sensor 2 detectou temperatura baixa 700.00
+[03-10-2024 23:45:49] Sensor 0: Temperatura medida: 739.00
+[03-10-2024 23:45:49] ALERTA: Sensor 3 detectou temperatura baixa 727.00
+[03-10-2024 23:45:49] ALERTA: Sensor 4 detectou temperatura baixa 722.00
+[03-10-2024 23:45:49] Sensor 2: Temperatura medida: 809.00
+[03-10-2024 23:45:50] Sensor 3: Temperatura medida: 640.00
+[03-10-2024 23:45:50] Sensor 1: Temperatura medida: 781.00
+[03-10-2024 23:45:50] Sensor 2: Temperatura medida: 852.00
+[03-10-2024 23:45:50] Sensor 0: Temperatura medida: 839.00
+[03-10-2024 23:45:50] Sensor 4: Temperatura medida: 683.00
+[03-10-2024 23:45:51] Sensor 3: Temperatura medida: 880.00
+[03-10-2024 23:45:51] Sensor 0: Temperatura medida 839.00 está dentro da faixa normal.
+[03-10-2024 23:45:51] Sensor 1: Temperatura medida 781.00 está dentro da faixa normal.
+[03-10-2024 23:45:51] Sensor 0: Temperatura medida: 817.00
+[03-10-2024 23:45:51] ALERTA: Sensor 2 detectou temperatura alta 852.00
+[03-10-2024 23:45:51] Sensor 4: Temperatura medida: 628.00
+[03-10-2024 23:45:51] ALERTA: Sensor 3 detectou temperatura alta 880.00
+[03-10-2024 23:45:51] ALERTA: Sensor 4 detectou temperatura baixa 628.00
+[03-10-2024 23:45:51] Sensor 1: Temperatura medida: 747.00
+[03-10-2024 23:45:51] Sensor 2: Temperatura medida: 774.00

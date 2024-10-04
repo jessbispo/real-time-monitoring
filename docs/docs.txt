@@ -1,0 +1,19 @@
+No contexto de monitoramente do temperatura de queimadas de grande escala de ceramica, o recurso a ser acessado e protegido pelas threads são os dados dos sensores. Esses dados incluem infos como temperatura medida por cada sensor e outros parametrs (id, estado...)
+
+No nosso codigo, o recurso critico são os dados armazenados na estrutura:
+
+typedef struct {
+    int id;
+    float temperature;
+    pthread_mutex_t lock;  // Mutex para proteger o acesso aos dados do sensor
+} Sensor;
+
+Ao acessar ou modificar esses dados, utilizamos um mutex para garantir que uma única thread por vez possa interagir com eles, como neste exemplo:
+
+// Bloqueia o mutex antes de acessar os dados do sensor
+pthread_mutex_lock(&sensors[i].lock);
+sensors[i].temperature = new_temperature;  // Atualiza o valor da temperatura
+pthread_mutex_unlock(&sensors[i].lock);  // Libera o mutex após a operação
+
+
+//Aqui a gente usou 
