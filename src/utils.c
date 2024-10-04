@@ -10,7 +10,6 @@ void log_message(const char *format, ...) {
         return;
     }
 
-    // Obtendo o timestamp atual
     time_t now = time(NULL);
     struct tm *tm_now = localtime(&now);
     fprintf(log_file, "[%02d-%02d-%04d %02d:%02d:%02d] ", 

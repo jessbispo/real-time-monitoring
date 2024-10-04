@@ -6,7 +6,7 @@
 #include "utils.h"
 
 Sensor sensors[NUM_SENSORS]; 
-sem_t sensor_sem;  // Declarar um semáforo
+sem_t sensor_sem;
 
 void init_sensors() {
     for (int i = 0; i < NUM_SENSORS; i++) {
@@ -20,22 +20,21 @@ void init_sensors() {
 void* sensor_read(void* arg) {
     Sensor* sensor = (Sensor*)arg;
 
-    log_message("Thread do sensor %d iniciada.", sensor->id);  // Log de início da thread
+    log_message("Thread do sensor %d iniciada.", sensor->id); 
 
     while (1) {
         sem_wait(&sensor_sem);
 
         pthread_mutex_lock(&sensor->lock);
-        // Gerando uma temperatura aleatória entre 600 e 900
         sensor->temperature = 600 + (rand() % (900 - 600 + 1));  
         log_message("Sensor %d: Temperatura medida: %.2f", sensor->id, sensor->temperature);
         pthread_mutex_unlock(&sensor->lock);
 
         sem_post(&sensor_sem);
-        sleep(1);  // Simula tempo entre as leituras
+        sleep(1); 
     }
 
-    log_message("Thread do sensor %d finalizada.", sensor->id);  // Log de finalização da thread
+    log_message("Thread do sensor %d finalizada.", sensor->id); 
     return NULL;
 }
 

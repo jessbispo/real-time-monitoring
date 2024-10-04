@@ -2,16 +2,16 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include "sensor.h" 
-#include "alert.h"
-#include "utils.h"
+#include "src/sensor.h" 
+#include "src/alert.h"
+#include "src/utils.h"
 #include <semaphore.h>
 
 int main() {
     srand(time(NULL)); 
     pthread_t sensor_threads[NUM_SENSORS];
     pthread_t alert_thread;
-    sem_t sensor_sem;  // Semáforo para limitar o acesso às leituras de sensores
+    sem_t sensor_sem; 
     
     sem_init(&sensor_sem, 0, 3);
     init_sensors();

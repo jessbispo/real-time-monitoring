@@ -10,14 +10,13 @@ int alert_count = 0;
 pthread_mutex_t alert_lock;  
 
 void* alert_process(void* arg) {
-    log_message("Thread de alerta iniciada.");  // Log de início da thread
+    log_message("Thread de alerta iniciada."); 
 
     while (1) {
         for (int i = 0; i < NUM_SENSORS; i++) {
-            pthread_mutex_lock(&sensors[i].lock);  // Bloqueia o acesso ao sensor
+            pthread_mutex_lock(&sensors[i].lock);  // bloqueia o acesso ao sensor
 
-            // Verifica se a temperatura está acima de 850 ou abaixo de 740
-            if (sensors[i].temperature > 850) {  // Temperatura alta
+            if (sensors[i].temperature > 850) {  
                 pthread_mutex_lock(&alert_lock);
 
                 alerts[alert_count].sensor_id = sensors[i].id;
@@ -31,7 +30,7 @@ void* alert_process(void* arg) {
 
                 pthread_mutex_unlock(&alert_lock);
 
-            } else if (sensors[i].temperature < 740) {  // Temperatura baixa
+            } else if (sensors[i].temperature < 740) { 
                 pthread_mutex_lock(&alert_lock);
 
                 alerts[alert_count].sensor_id = sensors[i].id;
@@ -42,20 +41,20 @@ void* alert_process(void* arg) {
                 log_message("ALERTA: Sensor %d detectou temperatura baixa %.2f", sensors[i].id, sensors[i].temperature);
 
                 alert_count++;
-                
+
                 pthread_mutex_unlock(&alert_lock);
             } else {
-                // Temperatura normal
+  
                 printf("Sensor %d: Temperatura medida %.2f está dentro da faixa normal.\n", sensors[i].id, sensors[i].temperature);
                 log_message("Sensor %d: Temperatura medida %.2f está dentro da faixa normal.", sensors[i].id, sensors[i].temperature);
             }
 
-            pthread_mutex_unlock(&sensors[i].lock);  // Libera o acesso ao sensor
+            pthread_mutex_unlock(&sensors[i].lock);  // libera o acesso ao sensor
         }
         sleep(2);
     }
 
-    log_message("Thread de alerta finalizada.");  // Log de finalização da thread
+    log_message("Thread de alerta finalizada.");  // log de finalização da thread
     return NULL;
 }
 
