@@ -43,5 +43,5 @@ Os logs são gerados para acompanhar:
 
 - Quando a temperatura é medida dentro da normalidade:
 
-## to be done:
-    add sendemail function
+## TBD:
+    Adicionar SendEmail funtion pra quando alertas acontecerem

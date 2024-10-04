@@ -15,5 +15,3 @@ pthread_mutex_lock(&sensors[i].lock);
 sensors[i].temperature = new_temperature;  // Atualiza o valor da temperatura
 pthread_mutex_unlock(&sensors[i].lock);  // Libera o mutex após a operação
 
-
-//Aqui a gente usou 
